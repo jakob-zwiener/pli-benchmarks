@@ -1,0 +1,63 @@
+1
+PLI build took: 63.505860s
+0.864865 intersections/s over 37s.
+
+2
+PLI build took: 44.706277s
+1.290323 intersections/s over 31s.
+
+3
+PLI build took: 43.359995s
+1.766667 intersections/s over 30s.
+
+4
+PLI build took: 47.196236s
+1.290323 intersections/s over 31s.
+
+5
+PLI build took: 46.063627s
+1.400000 intersections/s over 30s.
+
+6
+PLI build took: 50.694812s
+1.566667 intersections/s over 30s.
+
+7
+PLI build took: 44.707855s
+1.633333 intersections/s over 30s.
+
+8
+PLI build took: 47.423287s
+1.290323 intersections/s over 31s.
+
+9
+PLI build took: 44.436308s
+1.600000 intersections/s over 30s.
+
+10
+PLI build took: 42.464925s
+1.400000 intersections/s over 30s.
+
+11
+PLI build took: 43.370601s
+1.333333 intersections/s over 30s.
+
+12
+PLI build took: 44.832003s
+1.366667 intersections/s over 30s.
+
+13
+PLI build took: 43.618447s
+1.333333 intersections/s over 30s.
+
+14
+PLI build took: 45.524608s
+1.250000 intersections/s over 32s.
+
+15
+PLI build took: 46.099099s
+1.250000 intersections/s over 32s.
+
+16
+PLI build took: 46.598381s
+1.212121 intersections/s over 33s.
