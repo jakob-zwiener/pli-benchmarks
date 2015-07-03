@@ -1,0 +1,675 @@
+1 thread
+
+Materialization took: 0.049863s
+Intersect iteration 0 with 1 clusters of size 125000 computed with 1 threads in 0.223615s.
+Materialization took: 0.006289s
+Intersect iteration 1 with 1 clusters of size 125000 computed with 1 threads in 0.027616s.
+Materialization took: 0.003908s
+Intersect iteration 2 with 1 clusters of size 125000 computed with 1 threads in 0.023933s.
+Materialization took: 0.011148s
+Intersect iteration 0 with 1 clusters of size 250000 computed with 1 threads in 0.077025s.
+Materialization took: 0.007333s
+Intersect iteration 1 with 1 clusters of size 250000 computed with 1 threads in 0.037880s.
+Materialization took: 0.006241s
+Intersect iteration 2 with 1 clusters of size 250000 computed with 1 threads in 0.040513s.
+Materialization took: 0.011082s
+Intersect iteration 0 with 1 clusters of size 500000 computed with 1 threads in 0.068254s.
+Materialization took: 0.011454s
+Intersect iteration 1 with 1 clusters of size 500000 computed with 1 threads in 0.075991s.
+Materialization took: 0.019238s
+Intersect iteration 2 with 1 clusters of size 500000 computed with 1 threads in 0.076385s.
+Materialization took: 0.023878s
+Intersect iteration 0 with 1 clusters of size 1000000 computed with 1 threads in 0.142474s.
+Materialization took: 0.021683s
+Intersect iteration 1 with 1 clusters of size 1000000 computed with 1 threads in 0.145235s.
+Materialization took: 0.041260s
+Intersect iteration 2 with 1 clusters of size 1000000 computed with 1 threads in 0.167361s.
+Materialization took: 0.066249s
+Intersect iteration 0 with 1 clusters of size 2000000 computed with 1 threads in 0.379836s.
+Materialization took: 0.070615s
+Intersect iteration 1 with 1 clusters of size 2000000 computed with 1 threads in 0.349379s.
+Materialization took: 0.056498s
+Intersect iteration 2 with 1 clusters of size 2000000 computed with 1 threads in 0.261619s.
+Materialization took: 0.119862s
+Intersect iteration 0 with 1 clusters of size 4000000 computed with 1 threads in 0.561604s.
+Materialization took: 0.110039s
+Intersect iteration 1 with 1 clusters of size 4000000 computed with 1 threads in 0.541566s.
+Materialization took: 0.120440s
+Intersect iteration 2 with 1 clusters of size 4000000 computed with 1 threads in 0.547063s.
+Materialization took: 0.221996s
+Intersect iteration 0 with 1 clusters of size 8000000 computed with 1 threads in 1.109230s.
+Materialization took: 0.219699s
+Intersect iteration 1 with 1 clusters of size 8000000 computed with 1 threads in 1.078567s.
+Materialization took: 0.218361s
+Intersect iteration 2 with 1 clusters of size 8000000 computed with 1 threads in 1.083963s.
+Materialization took: 0.004543s
+Intersect iteration 0 with 2 clusters of size 125000 computed with 1 threads in 0.014583s.
+Materialization took: 0.005883s
+Intersect iteration 1 with 2 clusters of size 125000 computed with 1 threads in 0.021689s.
+Materialization took: 0.004472s
+Intersect iteration 2 with 2 clusters of size 125000 computed with 1 threads in 0.015839s.
+Materialization took: 0.011630s
+Intersect iteration 0 with 2 clusters of size 250000 computed with 1 threads in 0.059317s.
+Materialization took: 0.009098s
+Intersect iteration 1 with 2 clusters of size 250000 computed with 1 threads in 0.065514s.
+Materialization took: 0.009152s
+Intersect iteration 2 with 2 clusters of size 250000 computed with 1 threads in 0.047264s.
+Materialization took: 0.025790s
+Intersect iteration 0 with 2 clusters of size 500000 computed with 1 threads in 0.130885s.
+Materialization took: 0.020598s
+Intersect iteration 1 with 2 clusters of size 500000 computed with 1 threads in 0.117512s.
+Materialization took: 0.019936s
+Intersect iteration 2 with 2 clusters of size 500000 computed with 1 threads in 0.115083s.
+Materialization took: 0.044298s
+Intersect iteration 0 with 2 clusters of size 1000000 computed with 1 threads in 0.245204s.
+Materialization took: 0.061895s
+Intersect iteration 1 with 2 clusters of size 1000000 computed with 1 threads in 0.256870s.
+Materialization took: 0.043684s
+Intersect iteration 2 with 2 clusters of size 1000000 computed with 1 threads in 0.250945s.
+Materialization took: 0.120343s
+Intersect iteration 0 with 2 clusters of size 2000000 computed with 1 threads in 0.539194s.
+Materialization took: 0.109688s
+Intersect iteration 1 with 2 clusters of size 2000000 computed with 1 threads in 0.554285s.
+Materialization took: 0.111485s
+Intersect iteration 2 with 2 clusters of size 2000000 computed with 1 threads in 0.531021s.
+Materialization took: 0.220184s
+Intersect iteration 0 with 2 clusters of size 4000000 computed with 1 threads in 1.085747s.
+Materialization took: 0.211717s
+Intersect iteration 1 with 2 clusters of size 4000000 computed with 1 threads in 1.074793s.
+Materialization took: 0.219384s
+Intersect iteration 2 with 2 clusters of size 4000000 computed with 1 threads in 1.091440s.
+Materialization took: 0.430813s
+Intersect iteration 0 with 2 clusters of size 8000000 computed with 1 threads in 2.273076s.
+Materialization took: 0.429987s
+Intersect iteration 1 with 2 clusters of size 8000000 computed with 1 threads in 2.191257s.
+Materialization took: 0.434231s
+Intersect iteration 2 with 2 clusters of size 8000000 computed with 1 threads in 2.221646s.
+Materialization took: 0.008372s
+Intersect iteration 0 with 3 clusters of size 125000 computed with 1 threads in 0.042611s.
+Materialization took: 0.007156s
+Intersect iteration 1 with 3 clusters of size 125000 computed with 1 threads in 0.027572s.
+Materialization took: 0.007189s
+Intersect iteration 2 with 3 clusters of size 125000 computed with 1 threads in 0.032507s.
+Materialization took: 0.022507s
+Intersect iteration 0 with 3 clusters of size 250000 computed with 1 threads in 0.084112s.
+Materialization took: 0.024228s
+Intersect iteration 1 with 3 clusters of size 250000 computed with 1 threads in 0.085896s.
+Materialization took: 0.014314s
+Intersect iteration 2 with 3 clusters of size 250000 computed with 1 threads in 0.077194s.
+Materialization took: 0.043248s
+Intersect iteration 0 with 3 clusters of size 500000 computed with 1 threads in 0.180482s.
+Materialization took: 0.036651s
+Intersect iteration 1 with 3 clusters of size 500000 computed with 1 threads in 0.182955s.
+Materialization took: 0.044022s
+Intersect iteration 2 with 3 clusters of size 500000 computed with 1 threads in 0.187391s.
+Materialization took: 0.073182s
+Intersect iteration 0 with 3 clusters of size 1000000 computed with 1 threads in 0.382678s.
+Materialization took: 0.072718s
+Intersect iteration 1 with 3 clusters of size 1000000 computed with 1 threads in 0.397899s.
+Materialization took: 0.078027s
+Intersect iteration 2 with 3 clusters of size 1000000 computed with 1 threads in 0.395783s.
+Materialization took: 0.169861s
+Intersect iteration 0 with 3 clusters of size 2000000 computed with 1 threads in 0.808364s.
+Materialization took: 0.164566s
+Intersect iteration 1 with 3 clusters of size 2000000 computed with 1 threads in 0.808214s.
+Materialization took: 0.159168s
+Intersect iteration 2 with 3 clusters of size 2000000 computed with 1 threads in 0.813802s.
+Materialization took: 0.320415s
+Intersect iteration 0 with 3 clusters of size 4000000 computed with 1 threads in 1.643137s.
+Materialization took: 0.336859s
+Intersect iteration 1 with 3 clusters of size 4000000 computed with 1 threads in 1.673983s.
+Materialization took: 0.323565s
+Intersect iteration 2 with 3 clusters of size 4000000 computed with 1 threads in 1.656776s.
+Materialization took: 0.661502s
+Intersect iteration 0 with 3 clusters of size 8000000 computed with 1 threads in 3.586015s.
+Materialization took: 0.648837s
+Intersect iteration 1 with 3 clusters of size 8000000 computed with 1 threads in 3.518532s.
+Materialization took: 0.656359s
+Intersect iteration 2 with 3 clusters of size 8000000 computed with 1 threads in 3.487798s.
+Materialization took: 0.010085s
+Intersect iteration 0 with 4 clusters of size 125000 computed with 1 threads in 0.051961s.
+Materialization took: 0.009915s
+Intersect iteration 1 with 4 clusters of size 125000 computed with 1 threads in 0.051010s.
+Materialization took: 0.009271s
+Intersect iteration 2 with 4 clusters of size 125000 computed with 1 threads in 0.040454s.
+Materialization took: 0.020857s
+Intersect iteration 0 with 4 clusters of size 250000 computed with 1 threads in 0.119443s.
+Materialization took: 0.033722s
+Intersect iteration 1 with 4 clusters of size 250000 computed with 1 threads in 0.123545s.
+Materialization took: 0.025811s
+Intersect iteration 2 with 4 clusters of size 250000 computed with 1 threads in 0.115225s.
+Materialization took: 0.058768s
+Intersect iteration 0 with 4 clusters of size 500000 computed with 1 threads in 0.254872s.
+Materialization took: 0.042743s
+Intersect iteration 1 with 4 clusters of size 500000 computed with 1 threads in 0.255540s.
+Materialization took: 0.061706s
+Intersect iteration 2 with 4 clusters of size 500000 computed with 1 threads in 0.268666s.
+Materialization took: 0.118206s
+Intersect iteration 0 with 4 clusters of size 1000000 computed with 1 threads in 0.542751s.
+Materialization took: 0.136483s
+Intersect iteration 1 with 4 clusters of size 1000000 computed with 1 threads in 0.569449s.
+Materialization took: 0.116666s
+Intersect iteration 2 with 4 clusters of size 1000000 computed with 1 threads in 0.545974s.
+Materialization took: 0.214599s
+Intersect iteration 0 with 4 clusters of size 2000000 computed with 1 threads in 1.092520s.
+Materialization took: 0.211420s
+Intersect iteration 1 with 4 clusters of size 2000000 computed with 1 threads in 1.080734s.
+Materialization took: 0.213191s
+Intersect iteration 2 with 4 clusters of size 2000000 computed with 1 threads in 1.076477s.
+Materialization took: 0.435732s
+Intersect iteration 0 with 4 clusters of size 4000000 computed with 1 threads in 2.224336s.
+Materialization took: 0.429294s
+Intersect iteration 1 with 4 clusters of size 4000000 computed with 1 threads in 2.205764s.
+Materialization took: 0.439104s
+Intersect iteration 2 with 4 clusters of size 4000000 computed with 1 threads in 2.221572s.
+Materialization took: 0.876462s
+Intersect iteration 0 with 4 clusters of size 8000000 computed with 1 threads in 4.676620s.
+Materialization took: 0.877929s
+Intersect iteration 1 with 4 clusters of size 8000000 computed with 1 threads in 4.693437s.
+Materialization took: 0.875474s
+Intersect iteration 2 with 4 clusters of size 8000000 computed with 1 threads in 4.658791s.
+Materialization took: 0.012123s
+Intersect iteration 0 with 5 clusters of size 125000 computed with 1 threads in 0.056800s.
+Materialization took: 0.011910s
+Intersect iteration 1 with 5 clusters of size 125000 computed with 1 threads in 0.063324s.
+Materialization took: 0.011754s
+Intersect iteration 2 with 5 clusters of size 125000 computed with 1 threads in 0.069415s.
+Materialization took: 0.027784s
+Intersect iteration 0 with 5 clusters of size 250000 computed with 1 threads in 0.149278s.
+Materialization took: 0.034461s
+Intersect iteration 1 with 5 clusters of size 250000 computed with 1 threads in 0.154637s.
+Materialization took: 0.034356s
+Intersect iteration 2 with 5 clusters of size 250000 computed with 1 threads in 0.155360s.
+Materialization took: 0.072562s
+Intersect iteration 0 with 5 clusters of size 500000 computed with 1 threads in 0.324253s.
+Materialization took: 0.072394s
+Intersect iteration 1 with 5 clusters of size 500000 computed with 1 threads in 0.332256s.
+Materialization took: 0.060764s
+Intersect iteration 2 with 5 clusters of size 500000 computed with 1 threads in 0.320868s.
+Materialization took: 0.131866s
+Intersect iteration 0 with 5 clusters of size 1000000 computed with 1 threads in 0.662961s.
+Materialization took: 0.132142s
+Intersect iteration 1 with 5 clusters of size 1000000 computed with 1 threads in 0.661505s.
+Materialization took: 0.147382s
+Intersect iteration 2 with 5 clusters of size 1000000 computed with 1 threads in 0.670580s.
+Materialization took: 0.264479s
+Intersect iteration 0 with 5 clusters of size 2000000 computed with 1 threads in 1.369343s.
+Materialization took: 0.382087s
+Intersect iteration 1 with 5 clusters of size 2000000 computed with 1 threads in 2.759603s.
+Materialization took: 0.379378s
+Intersect iteration 2 with 5 clusters of size 2000000 computed with 1 threads in 1.924300s.
+Materialization took: 0.549146s
+Intersect iteration 0 with 5 clusters of size 4000000 computed with 1 threads in 2.852760s.
+Materialization took: 0.574345s
+Intersect iteration 1 with 5 clusters of size 4000000 computed with 1 threads in 2.870890s.
+Materialization took: 0.559193s
+Intersect iteration 2 with 5 clusters of size 4000000 computed with 1 threads in 2.833175s.
+Materialization took: 1.127371s
+Intersect iteration 0 with 5 clusters of size 8000000 computed with 1 threads in 5.955871s.
+Materialization took: 1.095469s
+Intersect iteration 1 with 5 clusters of size 8000000 computed with 1 threads in 5.899080s.
+Materialization took: 1.090730s
+Intersect iteration 2 with 5 clusters of size 8000000 computed with 1 threads in 5.898373s.
+Materialization took: 0.013848s
+Intersect iteration 0 with 6 clusters of size 125000 computed with 1 threads in 0.078442s.
+Materialization took: 0.015253s
+Intersect iteration 1 with 6 clusters of size 125000 computed with 1 threads in 0.081262s.
+Materialization took: 0.028685s
+Intersect iteration 2 with 6 clusters of size 125000 computed with 1 threads in 0.090653s.
+Materialization took: 0.031500s
+Intersect iteration 0 with 6 clusters of size 250000 computed with 1 threads in 0.185778s.
+Materialization took: 0.039284s
+Intersect iteration 1 with 6 clusters of size 250000 computed with 1 threads in 0.186306s.
+Materialization took: 0.036049s
+Intersect iteration 2 with 6 clusters of size 250000 computed with 1 threads in 0.187881s.
+Materialization took: 0.077562s
+Intersect iteration 0 with 6 clusters of size 500000 computed with 1 threads in 0.399435s.
+Materialization took: 0.077124s
+Intersect iteration 1 with 6 clusters of size 500000 computed with 1 threads in 0.396003s.
+Materialization took: 0.084109s
+Intersect iteration 2 with 6 clusters of size 500000 computed with 1 threads in 0.397062s.
+Materialization took: 0.160650s
+Intersect iteration 0 with 6 clusters of size 1000000 computed with 1 threads in 0.799603s.
+Materialization took: 0.166512s
+Intersect iteration 1 with 6 clusters of size 1000000 computed with 1 threads in 0.803962s.
+Materialization took: 0.161633s
+Intersect iteration 2 with 6 clusters of size 1000000 computed with 1 threads in 0.813624s.
+Materialization took: 0.318074s
+Intersect iteration 0 with 6 clusters of size 2000000 computed with 1 threads in 1.640820s.
+Materialization took: 0.315583s
+Intersect iteration 1 with 6 clusters of size 2000000 computed with 1 threads in 1.645343s.
+Materialization took: 0.314098s
+Intersect iteration 2 with 6 clusters of size 2000000 computed with 1 threads in 1.643798s.
+Materialization took: 0.653943s
+Intersect iteration 0 with 6 clusters of size 4000000 computed with 1 threads in 3.370785s.
+Materialization took: 0.656714s
+Intersect iteration 1 with 6 clusters of size 4000000 computed with 1 threads in 3.379485s.
+Materialization took: 0.649639s
+Intersect iteration 2 with 6 clusters of size 4000000 computed with 1 threads in 3.375266s.
+Materialization took: 1.316304s
+Intersect iteration 0 with 6 clusters of size 8000000 computed with 1 threads in 7.198007s.
+Materialization took: 1.307463s
+Intersect iteration 1 with 6 clusters of size 8000000 computed with 1 threads in 7.237126s.
+Materialization took: 1.314418s
+Intersect iteration 2 with 6 clusters of size 8000000 computed with 1 threads in 7.299000s.
+Materialization took: 0.024601s
+Intersect iteration 0 with 7 clusters of size 125000 computed with 1 threads in 0.096092s.
+Materialization took: 0.017994s
+Intersect iteration 1 with 7 clusters of size 125000 computed with 1 threads in 0.100094s.
+Materialization took: 0.025103s
+Intersect iteration 2 with 7 clusters of size 125000 computed with 1 threads in 0.098794s.
+Materialization took: 0.044423s
+Intersect iteration 0 with 7 clusters of size 250000 computed with 1 threads in 0.214685s.
+Materialization took: 0.044715s
+Intersect iteration 1 with 7 clusters of size 250000 computed with 1 threads in 0.211820s.
+Materialization took: 0.050788s
+Intersect iteration 2 with 7 clusters of size 250000 computed with 1 threads in 0.220327s.
+Materialization took: 0.089287s
+Intersect iteration 0 with 7 clusters of size 500000 computed with 1 threads in 0.456421s.
+Materialization took: 0.096991s
+Intersect iteration 1 with 7 clusters of size 500000 computed with 1 threads in 0.462987s.
+Materialization took: 0.096993s
+Intersect iteration 2 with 7 clusters of size 500000 computed with 1 threads in 0.462833s.
+Materialization took: 0.191506s
+Intersect iteration 0 with 7 clusters of size 1000000 computed with 1 threads in 0.944722s.
+Materialization took: 0.211289s
+Intersect iteration 1 with 7 clusters of size 1000000 computed with 1 threads in 0.962672s.
+Materialization took: 0.195254s
+Intersect iteration 2 with 7 clusters of size 1000000 computed with 1 threads in 0.949705s.
+Materialization took: 0.381807s
+Intersect iteration 0 with 7 clusters of size 2000000 computed with 1 threads in 1.943550s.
+Materialization took: 0.377384s
+Intersect iteration 1 with 7 clusters of size 2000000 computed with 1 threads in 1.934263s.
+Materialization took: 0.368643s
+Intersect iteration 2 with 7 clusters of size 2000000 computed with 1 threads in 1.932144s.
+Materialization took: 0.775978s
+Intersect iteration 0 with 7 clusters of size 4000000 computed with 1 threads in 4.123181s.
+Materialization took: 0.767368s
+Intersect iteration 1 with 7 clusters of size 4000000 computed with 1 threads in 4.092892s.
+Materialization took: 0.768295s
+Intersect iteration 2 with 7 clusters of size 4000000 computed with 1 threads in 4.140904s.
+Materialization took: 1.782352s
+Intersect iteration 0 with 7 clusters of size 8000000 computed with 1 threads in 8.526740s.
+Materialization took: 1.729813s
+Intersect iteration 1 with 7 clusters of size 8000000 computed with 1 threads in 8.365297s.
+Materialization took: 1.826140s
+Intersect iteration 2 with 7 clusters of size 8000000 computed with 1 threads in 8.638186s.
+Materialization took: 0.023672s
+Intersect iteration 0 with 8 clusters of size 125000 computed with 1 threads in 0.109453s.
+Materialization took: 0.021043s
+Intersect iteration 1 with 8 clusters of size 125000 computed with 1 threads in 0.120189s.
+Materialization took: 0.020233s
+Intersect iteration 2 with 8 clusters of size 125000 computed with 1 threads in 0.120216s.
+Materialization took: 0.045740s
+Intersect iteration 0 with 8 clusters of size 250000 computed with 1 threads in 0.245714s.
+Materialization took: 0.062315s
+Intersect iteration 1 with 8 clusters of size 250000 computed with 1 threads in 0.259410s.
+Materialization took: 0.045623s
+Intersect iteration 2 with 8 clusters of size 250000 computed with 1 threads in 0.249870s.
+Materialization took: 0.113658s
+Intersect iteration 0 with 8 clusters of size 500000 computed with 1 threads in 0.528733s.
+Materialization took: 0.112720s
+Intersect iteration 1 with 8 clusters of size 500000 computed with 1 threads in 0.536399s.
+Materialization took: 0.103360s
+Intersect iteration 2 with 8 clusters of size 500000 computed with 1 threads in 0.535293s.
+Materialization took: 0.210974s
+Intersect iteration 0 with 8 clusters of size 1000000 computed with 1 threads in 1.086902s.
+Materialization took: 0.220186s
+Intersect iteration 1 with 8 clusters of size 1000000 computed with 1 threads in 1.095959s.
+Materialization took: 0.225037s
+Intersect iteration 2 with 8 clusters of size 1000000 computed with 1 threads in 1.092307s.
+Materialization took: 0.431104s
+Intersect iteration 0 with 8 clusters of size 2000000 computed with 1 threads in 2.207762s.
+Materialization took: 0.433833s
+Intersect iteration 1 with 8 clusters of size 2000000 computed with 1 threads in 2.265991s.
+Materialization took: 0.480079s
+Intersect iteration 2 with 8 clusters of size 2000000 computed with 1 threads in 2.361238s.
+Materialization took: 0.886224s
+Intersect iteration 0 with 8 clusters of size 4000000 computed with 1 threads in 4.702430s.
+Materialization took: 0.867189s
+Intersect iteration 1 with 8 clusters of size 4000000 computed with 1 threads in 4.708516s.
+Materialization took: 0.885909s
+Intersect iteration 2 with 8 clusters of size 4000000 computed with 1 threads in 4.810785s.
+Materialization took: 2.776825s
+Intersect iteration 0 with 8 clusters of size 8000000 computed with 1 threads in 10.425806s.
+Materialization took: 1.942740s
+Intersect iteration 1 with 8 clusters of size 8000000 computed with 1 threads in 9.609441s.
+Materialization took: 2.328289s
+Intersect iteration 2 with 8 clusters of size 8000000 computed with 1 threads in 9.976438s.
+Materialization took: 0.035227s
+Intersect iteration 0 with 9 clusters of size 125000 computed with 1 threads in 0.138220s.
+Materialization took: 0.038979s
+Intersect iteration 1 with 9 clusters of size 125000 computed with 1 threads in 0.152107s.
+Materialization took: 0.027240s
+Intersect iteration 2 with 9 clusters of size 125000 computed with 1 threads in 0.140181s.
+Materialization took: 0.052608s
+Intersect iteration 0 with 9 clusters of size 250000 computed with 1 threads in 0.288105s.
+Materialization took: 0.064050s
+Intersect iteration 1 with 9 clusters of size 250000 computed with 1 threads in 0.298845s.
+Materialization took: 0.051933s
+Intersect iteration 2 with 9 clusters of size 250000 computed with 1 threads in 0.284218s.
+Materialization took: 0.133700s
+Intersect iteration 0 with 9 clusters of size 500000 computed with 1 threads in 0.612609s.
+Materialization took: 0.126323s
+Intersect iteration 1 with 9 clusters of size 500000 computed with 1 threads in 0.602473s.
+Materialization took: 0.131180s
+Intersect iteration 2 with 9 clusters of size 500000 computed with 1 threads in 0.612664s.
+Materialization took: 0.251596s
+Intersect iteration 0 with 9 clusters of size 1000000 computed with 1 threads in 1.239802s.
+Materialization took: 0.248773s
+Intersect iteration 1 with 9 clusters of size 1000000 computed with 1 threads in 1.236215s.
+Materialization took: 0.236901s
+Intersect iteration 2 with 9 clusters of size 1000000 computed with 1 threads in 1.221589s.
+Materialization took: 0.494641s
+Intersect iteration 0 with 9 clusters of size 2000000 computed with 1 threads in 2.494169s.
+Materialization took: 0.605879s
+Intersect iteration 1 with 9 clusters of size 2000000 computed with 1 threads in 2.891248s.
+Materialization took: 0.511190s
+Intersect iteration 2 with 9 clusters of size 2000000 computed with 1 threads in 2.543246s.
+Materialization took: 0.999155s
+Intersect iteration 0 with 9 clusters of size 4000000 computed with 1 threads in 5.362795s.
+Materialization took: 1.008013s
+Intersect iteration 1 with 9 clusters of size 4000000 computed with 1 threads in 5.381424s.
+Materialization took: 1.033114s
+Intersect iteration 2 with 9 clusters of size 4000000 computed with 1 threads in 5.632737s.
+Materialization took: 2.346713s
+Intersect iteration 0 with 9 clusters of size 8000000 computed with 1 threads in 11.550178s.
+Materialization took: 2.207843s
+Intersect iteration 1 with 9 clusters of size 8000000 computed with 1 threads in 10.815873s.
+Materialization took: 2.227160s
+Intersect iteration 2 with 9 clusters of size 8000000 computed with 1 threads in 11.095889s.
+Materialization took: 0.026671s
+Intersect iteration 0 with 10 clusters of size 125000 computed with 1 threads in 0.147529s.
+Materialization took: 0.037830s
+Intersect iteration 1 with 10 clusters of size 125000 computed with 1 threads in 0.164537s.
+Materialization took: 0.050438s
+Intersect iteration 2 with 10 clusters of size 125000 computed with 1 threads in 0.160114s.
+Materialization took: 0.076533s
+Intersect iteration 0 with 10 clusters of size 250000 computed with 1 threads in 0.328454s.
+Materialization took: 0.076662s
+Intersect iteration 1 with 10 clusters of size 250000 computed with 1 threads in 0.338572s.
+Materialization took: 0.061326s
+Intersect iteration 2 with 10 clusters of size 250000 computed with 1 threads in 0.332867s.
+Materialization took: 0.149918s
+Intersect iteration 0 with 10 clusters of size 500000 computed with 1 threads in 0.702622s.
+Materialization took: 0.142215s
+Intersect iteration 1 with 10 clusters of size 500000 computed with 1 threads in 0.705598s.
+Materialization took: 0.136655s
+Intersect iteration 2 with 10 clusters of size 500000 computed with 1 threads in 0.686560s.
+Materialization took: 0.277016s
+Intersect iteration 0 with 10 clusters of size 1000000 computed with 1 threads in 1.383294s.
+Materialization took: 0.264308s
+Intersect iteration 1 with 10 clusters of size 1000000 computed with 1 threads in 1.378784s.
+Materialization took: 0.266680s
+Intersect iteration 2 with 10 clusters of size 1000000 computed with 1 threads in 1.374731s.
+Materialization took: 0.555002s
+Intersect iteration 0 with 10 clusters of size 2000000 computed with 1 threads in 2.798941s.
+Materialization took: 0.538975s
+Intersect iteration 1 with 10 clusters of size 2000000 computed with 1 threads in 2.940893s.
+Materialization took: 0.553291s
+Intersect iteration 2 with 10 clusters of size 2000000 computed with 1 threads in 2.811213s.
+Materialization took: 1.936379s
+Intersect iteration 0 with 10 clusters of size 4000000 computed with 1 threads in 8.150338s.
+Materialization took: 1.099506s
+Intersect iteration 1 with 10 clusters of size 4000000 computed with 1 threads in 5.932963s.
+Materialization took: 1.090521s
+Intersect iteration 2 with 10 clusters of size 4000000 computed with 1 threads in 6.020158s.
+Materialization took: 2.603192s
+Intersect iteration 0 with 10 clusters of size 8000000 computed with 1 threads in 12.315834s.
+Materialization took: 2.564551s
+Intersect iteration 1 with 10 clusters of size 8000000 computed with 1 threads in 12.793242s.
+Materialization took: 2.433782s
+Intersect iteration 2 with 10 clusters of size 8000000 computed with 1 threads in 12.346094s.
+Materialization took: 0.028252s
+Intersect iteration 0 with 11 clusters of size 125000 computed with 1 threads in 0.165728s.
+Materialization took: 0.030670s
+Intersect iteration 1 with 11 clusters of size 125000 computed with 1 threads in 0.160653s.
+Materialization took: 0.039823s
+Intersect iteration 2 with 11 clusters of size 125000 computed with 1 threads in 0.171653s.
+Materialization took: 0.072370s
+Intersect iteration 0 with 11 clusters of size 250000 computed with 1 threads in 0.359134s.
+Materialization took: 0.074635s
+Intersect iteration 1 with 11 clusters of size 250000 computed with 1 threads in 0.371605s.
+Materialization took: 0.069759s
+Intersect iteration 2 with 11 clusters of size 250000 computed with 1 threads in 0.355665s.
+Materialization took: 0.153637s
+Intersect iteration 0 with 11 clusters of size 500000 computed with 1 threads in 0.743692s.
+Materialization took: 0.162771s
+Intersect iteration 1 with 11 clusters of size 500000 computed with 1 threads in 0.754433s.
+Materialization took: 0.162870s
+Intersect iteration 2 with 11 clusters of size 500000 computed with 1 threads in 0.756947s.
+Materialization took: 0.294917s
+Intersect iteration 0 with 11 clusters of size 1000000 computed with 1 threads in 1.522996s.
+Materialization took: 0.306170s
+Intersect iteration 1 with 11 clusters of size 1000000 computed with 1 threads in 1.529778s.
+Materialization took: 0.304236s
+Intersect iteration 2 with 11 clusters of size 1000000 computed with 1 threads in 1.546692s.
+Materialization took: 0.602192s
+Intersect iteration 0 with 11 clusters of size 2000000 computed with 1 threads in 3.115945s.
+Materialization took: 0.593908s
+Intersect iteration 1 with 11 clusters of size 2000000 computed with 1 threads in 3.136218s.
+Materialization took: 0.608948s
+Intersect iteration 2 with 11 clusters of size 2000000 computed with 1 threads in 3.101982s.
+Materialization took: 1.233909s
+Intersect iteration 0 with 11 clusters of size 4000000 computed with 1 threads in 6.617719s.
+Materialization took: 1.349189s
+Intersect iteration 1 with 11 clusters of size 4000000 computed with 1 threads in 6.973967s.
+Materialization took: 1.265523s
+Intersect iteration 2 with 11 clusters of size 4000000 computed with 1 threads in 7.002878s.
+Materialization took: 3.391449s
+Intersect iteration 0 with 11 clusters of size 8000000 computed with 1 threads in 21.566468s.
+Materialization took: 3.499450s
+Intersect iteration 1 with 11 clusters of size 8000000 computed with 1 threads in 15.283044s.
+Materialization took: 4.160789s
+Intersect iteration 2 with 11 clusters of size 8000000 computed with 1 threads in 18.944699s.
+Materialization took: 0.091897s
+Intersect iteration 0 with 12 clusters of size 125000 computed with 1 threads in 0.352041s.
+Materialization took: 0.072100s
+Intersect iteration 1 with 12 clusters of size 125000 computed with 1 threads in 0.367661s.
+Materialization took: 0.063576s
+Intersect iteration 2 with 12 clusters of size 125000 computed with 1 threads in 0.389423s.
+Materialization took: 0.167985s
+Intersect iteration 0 with 12 clusters of size 250000 computed with 1 threads in 0.758512s.
+Materialization took: 0.145583s
+Intersect iteration 1 with 12 clusters of size 250000 computed with 1 threads in 0.723077s.
+Materialization took: 0.108682s
+Intersect iteration 2 with 12 clusters of size 250000 computed with 1 threads in 0.587404s.
+Materialization took: 0.256275s
+Intersect iteration 0 with 12 clusters of size 500000 computed with 1 threads in 1.263797s.
+Materialization took: 0.256493s
+Intersect iteration 1 with 12 clusters of size 500000 computed with 1 threads in 1.234897s.
+Materialization took: 0.242222s
+Intersect iteration 2 with 12 clusters of size 500000 computed with 1 threads in 1.079001s.
+Materialization took: 0.453819s
+Intersect iteration 0 with 12 clusters of size 1000000 computed with 1 threads in 2.166729s.
+Materialization took: 0.365723s
+Intersect iteration 1 with 12 clusters of size 1000000 computed with 1 threads in 1.934395s.
+Materialization took: 0.392323s
+Intersect iteration 2 with 12 clusters of size 1000000 computed with 1 threads in 1.845253s.
+Materialization took: 0.684709s
+Intersect iteration 0 with 12 clusters of size 2000000 computed with 1 threads in 3.821056s.
+Materialization took: 0.753997s
+Intersect iteration 1 with 12 clusters of size 2000000 computed with 1 threads in 3.814549s.
+Materialization took: 0.705281s
+Intersect iteration 2 with 12 clusters of size 2000000 computed with 1 threads in 3.729568s.
+Materialization took: 1.875217s
+Intersect iteration 0 with 12 clusters of size 4000000 computed with 1 threads in 10.412550s.
+Materialization took: 2.404704s
+Intersect iteration 1 with 12 clusters of size 4000000 computed with 1 threads in 11.804455s.
+Materialization took: 3.478351s
+Intersect iteration 2 with 12 clusters of size 4000000 computed with 1 threads in 13.669982s.
+Materialization took: 7.565085s
+Intersect iteration 0 with 12 clusters of size 8000000 computed with 1 threads in 21.923974s.
+Materialization took: 3.588460s
+Intersect iteration 1 with 12 clusters of size 8000000 computed with 1 threads in 16.410692s.
+Materialization took: 7.855120s
+Intersect iteration 2 with 12 clusters of size 8000000 computed with 1 threads in 34.795631s.
+Materialization took: 0.070082s
+Intersect iteration 0 with 13 clusters of size 125000 computed with 1 threads in 0.375026s.
+Materialization took: 0.078032s
+Intersect iteration 1 with 13 clusters of size 125000 computed with 1 threads in 0.378720s.
+Materialization took: 0.060551s
+Intersect iteration 2 with 13 clusters of size 125000 computed with 1 threads in 0.383633s.
+Materialization took: 0.179149s
+Intersect iteration 0 with 13 clusters of size 250000 computed with 1 threads in 0.887715s.
+Materialization took: 0.217946s
+Intersect iteration 1 with 13 clusters of size 250000 computed with 1 threads in 0.900470s.
+Materialization took: 0.157871s
+Intersect iteration 2 with 13 clusters of size 250000 computed with 1 threads in 0.813294s.
+Materialization took: 0.322203s
+Intersect iteration 0 with 13 clusters of size 500000 computed with 1 threads in 1.448635s.
+Materialization took: 0.304140s
+Intersect iteration 1 with 13 clusters of size 500000 computed with 1 threads in 1.260967s.
+Materialization took: 0.239507s
+Intersect iteration 2 with 13 clusters of size 500000 computed with 1 threads in 1.194122s.
+Materialization took: 0.484032s
+Intersect iteration 0 with 13 clusters of size 1000000 computed with 1 threads in 2.185155s.
+Materialization took: 0.434467s
+Intersect iteration 1 with 13 clusters of size 1000000 computed with 1 threads in 2.161650s.
+Materialization took: 0.368816s
+Intersect iteration 2 with 13 clusters of size 1000000 computed with 1 threads in 1.876225s.
+Materialization took: 0.733918s
+Intersect iteration 0 with 13 clusters of size 2000000 computed with 1 threads in 3.930068s.
+Materialization took: 0.735865s
+Intersect iteration 1 with 13 clusters of size 2000000 computed with 1 threads in 4.289562s.
+Materialization took: 1.038205s
+Intersect iteration 2 with 13 clusters of size 2000000 computed with 1 threads in 4.561056s.
+Materialization took: 2.643710s
+Intersect iteration 0 with 13 clusters of size 4000000 computed with 1 threads in 14.053507s.
+Materialization took: 2.277088s
+Intersect iteration 1 with 13 clusters of size 4000000 computed with 1 threads in 9.217617s.
+Materialization took: 1.785339s
+Intersect iteration 2 with 13 clusters of size 4000000 computed with 1 threads in 8.736374s.
+Materialization took: 3.677140s
+Intersect iteration 0 with 13 clusters of size 8000000 computed with 1 threads in 17.939145s.
+Materialization took: 3.364624s
+Intersect iteration 1 with 13 clusters of size 8000000 computed with 1 threads in 17.314966s.
+Materialization took: 4.136402s
+Intersect iteration 2 with 13 clusters of size 8000000 computed with 1 threads in 17.540036s.
+Materialization took: 0.043994s
+Intersect iteration 0 with 14 clusters of size 125000 computed with 1 threads in 0.233231s.
+Materialization took: 0.050941s
+Intersect iteration 1 with 14 clusters of size 125000 computed with 1 threads in 0.237144s.
+Materialization took: 0.048147s
+Intersect iteration 2 with 14 clusters of size 125000 computed with 1 threads in 0.224515s.
+Materialization took: 0.091766s
+Intersect iteration 0 with 14 clusters of size 250000 computed with 1 threads in 0.563740s.
+Materialization took: 0.105726s
+Intersect iteration 1 with 14 clusters of size 250000 computed with 1 threads in 0.496566s.
+Materialization took: 0.118536s
+Intersect iteration 2 with 14 clusters of size 250000 computed with 1 threads in 0.515345s.
+Materialization took: 0.208679s
+Intersect iteration 0 with 14 clusters of size 500000 computed with 1 threads in 0.965607s.
+Materialization took: 0.214814s
+Intersect iteration 1 with 14 clusters of size 500000 computed with 1 threads in 0.988076s.
+Materialization took: 0.210295s
+Intersect iteration 2 with 14 clusters of size 500000 computed with 1 threads in 1.001830s.
+Materialization took: 0.382267s
+Intersect iteration 0 with 14 clusters of size 1000000 computed with 1 threads in 1.982681s.
+Materialization took: 0.395823s
+Intersect iteration 1 with 14 clusters of size 1000000 computed with 1 threads in 2.000226s.
+Materialization took: 0.386071s
+Intersect iteration 2 with 14 clusters of size 1000000 computed with 1 threads in 1.960371s.
+Materialization took: 0.792725s
+Intersect iteration 0 with 14 clusters of size 2000000 computed with 1 threads in 4.227389s.
+Materialization took: 0.765766s
+Intersect iteration 1 with 14 clusters of size 2000000 computed with 1 threads in 4.120805s.
+Materialization took: 0.787185s
+Intersect iteration 2 with 14 clusters of size 2000000 computed with 1 threads in 4.247330s.
+Materialization took: 1.815558s
+Intersect iteration 0 with 14 clusters of size 4000000 computed with 1 threads in 8.648333s.
+Materialization took: 2.690905s
+Intersect iteration 1 with 14 clusters of size 4000000 computed with 1 threads in 10.618606s.
+Materialization took: 2.103019s
+Intersect iteration 2 with 14 clusters of size 4000000 computed with 1 threads in 10.481643s.
+Materialization took: 4.962301s
+Intersect iteration 0 with 14 clusters of size 8000000 computed with 1 threads in 19.641018s.
+Materialization took: 4.305555s
+Intersect iteration 1 with 14 clusters of size 8000000 computed with 1 threads in 18.559152s.
+Materialization took: 3.880902s
+Intersect iteration 2 with 14 clusters of size 8000000 computed with 1 threads in 18.088078s.
+Materialization took: 0.040310s
+Intersect iteration 0 with 15 clusters of size 125000 computed with 1 threads in 0.222659s.
+Materialization took: 0.054255s
+Intersect iteration 1 with 15 clusters of size 125000 computed with 1 threads in 0.244658s.
+Materialization took: 0.044254s
+Intersect iteration 2 with 15 clusters of size 125000 computed with 1 threads in 0.243543s.
+Materialization took: 0.101660s
+Intersect iteration 0 with 15 clusters of size 250000 computed with 1 threads in 0.495247s.
+Materialization took: 0.106139s
+Intersect iteration 1 with 15 clusters of size 250000 computed with 1 threads in 0.498664s.
+Materialization took: 0.110977s
+Intersect iteration 2 with 15 clusters of size 250000 computed with 1 threads in 0.508654s.
+Materialization took: 0.215234s
+Intersect iteration 0 with 15 clusters of size 500000 computed with 1 threads in 1.037995s.
+Materialization took: 0.215437s
+Intersect iteration 1 with 15 clusters of size 500000 computed with 1 threads in 1.020655s.
+Materialization took: 0.210147s
+Intersect iteration 2 with 15 clusters of size 500000 computed with 1 threads in 1.000198s.
+Materialization took: 0.408578s
+Intersect iteration 0 with 15 clusters of size 1000000 computed with 1 threads in 2.111425s.
+Materialization took: 0.440721s
+Intersect iteration 1 with 15 clusters of size 1000000 computed with 1 threads in 2.112061s.
+Materialization took: 0.472119s
+Intersect iteration 2 with 15 clusters of size 1000000 computed with 1 threads in 2.172012s.
+Materialization took: 0.861061s
+Intersect iteration 0 with 15 clusters of size 2000000 computed with 1 threads in 4.630416s.
+Materialization took: 0.875447s
+Intersect iteration 1 with 15 clusters of size 2000000 computed with 1 threads in 4.509516s.
+Materialization took: 0.819157s
+Intersect iteration 2 with 15 clusters of size 2000000 computed with 1 threads in 4.380721s.
+Materialization took: 1.949794s
+Intersect iteration 0 with 15 clusters of size 4000000 computed with 1 threads in 9.431209s.
+Materialization took: 2.072890s
+Intersect iteration 1 with 15 clusters of size 4000000 computed with 1 threads in 9.844206s.
+Materialization took: 2.134523s
+Intersect iteration 2 with 15 clusters of size 4000000 computed with 1 threads in 9.975793s.
+Materialization took: 3.534833s
+Intersect iteration 0 with 15 clusters of size 8000000 computed with 1 threads in 18.476511s.
+Materialization took: 3.313816s
+Intersect iteration 1 with 15 clusters of size 8000000 computed with 1 threads in 17.802987s.
+Materialization took: 3.378641s
+Intersect iteration 2 with 15 clusters of size 8000000 computed with 1 threads in 18.055591s.
+Materialization took: 0.047292s
+Intersect iteration 0 with 16 clusters of size 125000 computed with 1 threads in 0.240178s.
+Materialization took: 0.052570s
+Intersect iteration 1 with 16 clusters of size 125000 computed with 1 threads in 0.248547s.
+Materialization took: 0.042869s
+Intersect iteration 2 with 16 clusters of size 125000 computed with 1 threads in 0.242869s.
+Materialization took: 0.107205s
+Intersect iteration 0 with 16 clusters of size 250000 computed with 1 threads in 0.533356s.
+Materialization took: 0.108968s
+Intersect iteration 1 with 16 clusters of size 250000 computed with 1 threads in 0.535180s.
+Materialization took: 0.113473s
+Intersect iteration 2 with 16 clusters of size 250000 computed with 1 threads in 0.536907s.
+Materialization took: 0.217890s
+Intersect iteration 0 with 16 clusters of size 500000 computed with 1 threads in 1.080987s.
+Materialization took: 0.219652s
+Intersect iteration 1 with 16 clusters of size 500000 computed with 1 threads in 1.079140s.
+Materialization took: 0.218482s
+Intersect iteration 2 with 16 clusters of size 500000 computed with 1 threads in 1.082385s.
+Materialization took: 0.445642s
+Intersect iteration 0 with 16 clusters of size 1000000 computed with 1 threads in 2.211556s.
+Materialization took: 0.423762s
+Intersect iteration 1 with 16 clusters of size 1000000 computed with 1 threads in 2.202501s.
+Materialization took: 0.431383s
+Intersect iteration 2 with 16 clusters of size 1000000 computed with 1 threads in 2.204322s.
+Materialization took: 0.887567s
+Intersect iteration 0 with 16 clusters of size 2000000 computed with 1 threads in 4.697491s.
+Materialization took: 0.866252s
+Intersect iteration 1 with 16 clusters of size 2000000 computed with 1 threads in 4.692671s.
+Materialization took: 0.871206s
+Intersect iteration 2 with 16 clusters of size 2000000 computed with 1 threads in 4.688025s.
+Materialization took: 1.991421s
+Intersect iteration 0 with 16 clusters of size 4000000 computed with 1 threads in 9.806864s.
+Materialization took: 2.221844s
+Intersect iteration 1 with 16 clusters of size 4000000 computed with 1 threads in 10.787691s.
+Materialization took: 2.191012s
+Intersect iteration 2 with 16 clusters of size 4000000 computed with 1 threads in 10.466257s.
+Materialization took: 4.036729s
+Intersect iteration 0 with 16 clusters of size 8000000 computed with 1 threads in 19.900604s.
+Materialization took: 3.474624s
+Intersect iteration 1 with 16 clusters of size 8000000 computed with 1 threads in 18.896931s.
+Materialization took: 4.197379s
+Intersect iteration 2 with 16 clusters of size 8000000 computed with 1 threads in 19.725781s.
+
