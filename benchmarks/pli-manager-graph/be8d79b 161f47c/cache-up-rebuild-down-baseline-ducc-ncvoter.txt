@@ -1,0 +1,29 @@
+PLI build took: 34.484278s
+Execution time with 1 threads and 2 columns is 0.322083s in iteration 0.
+Execution time with 1 threads and 2 columns is 0.248165s in iteration 1.
+Execution time with 1 threads and 2 columns is 1.445796s in iteration 2.
+Execution time with 1 threads and 3 columns is 2.651723s in iteration 0.
+Execution time with 1 threads and 3 columns is 3.574646s in iteration 1.
+Execution time with 1 threads and 3 columns is 2.669300s in iteration 2.
+Execution time with 1 threads and 4 columns is 6.627660s in iteration 0.
+Execution time with 1 threads and 4 columns is 6.162705s in iteration 1.
+Execution time with 1 threads and 4 columns is 7.145638s in iteration 2.
+Execution time with 1 threads and 5 columns is 7.617007s in iteration 0.
+Execution time with 1 threads and 5 columns is 7.310192s in iteration 1.
+Execution time with 1 threads and 5 columns is 7.491312s in iteration 2.
+Execution time with 1 threads and 6 columns is 10.583840s in iteration 0.
+Execution time with 1 threads and 6 columns is 10.337870s in iteration 1.
+Execution time with 1 threads and 6 columns is 10.423141s in iteration 2.
+Execution time with 1 threads and 7 columns is 12.880522s in iteration 0.
+Execution time with 1 threads and 7 columns is 12.818889s in iteration 1.
+Execution time with 1 threads and 7 columns is 12.966172s in iteration 2.
+Execution time with 1 threads and 8 columns is 17.960283s in iteration 0.
+Execution time with 1 threads and 8 columns is 17.368840s in iteration 1.
+Execution time with 1 threads and 8 columns is 17.737579s in iteration 2.
+Execution time with 1 threads and 9 columns is 21.922687s in iteration 0.
+Execution time with 1 threads and 9 columns is 18.783775s in iteration 1.
+Execution time with 1 threads and 9 columns is 18.272237s in iteration 2.
+Execution time with 1 threads and 10 columns is 20.702927s in iteration 0.
+Execution time with 1 threads and 10 columns is 20.978271s in iteration 1.
+Execution time with 1 threads and 10 columns is 20.554830s in iteration 2.
+
