@@ -1,0 +1,61 @@
+not pinned:
+
+Execution time with 1 threads and 2 columns is 0.514318s in iteration 0.
+Execution time with 1 threads and 2 columns is 1.553311s in iteration 1.
+Execution time with 1 threads and 2 columns is 0.390428s in iteration 2.
+Execution time with 1 threads and 3 columns is 7.133582s in iteration 0.
+Execution time with 1 threads and 3 columns is 7.471257s in iteration 1.
+Execution time with 1 threads and 3 columns is 6.781826s in iteration 2.
+Execution time with 1 threads and 4 columns is 13.194897s in iteration 0.
+Execution time with 1 threads and 4 columns is 12.090929s in iteration 1.
+Execution time with 1 threads and 4 columns is 12.155457s in iteration 2.
+Execution time with 1 threads and 5 columns is 16.360613s in iteration 0.
+Execution time with 1 threads and 5 columns is 15.875744s in iteration 1.
+Execution time with 1 threads and 5 columns is 15.972289s in iteration 2.
+Execution time with 1 threads and 6 columns is 34.317857s in iteration 0.
+Execution time with 1 threads and 6 columns is 34.879171s in iteration 1.
+Execution time with 1 threads and 6 columns is 34.104242s in iteration 2.
+Execution time with 1 threads and 7 columns is 54.593875s in iteration 0.
+Execution time with 1 threads and 7 columns is 54.935339s in iteration 1.
+Execution time with 1 threads and 7 columns is 53.731672s in iteration 2.
+Execution time with 1 threads and 8 columns is 89.458195s in iteration 0.
+Execution time with 1 threads and 8 columns is 86.311392s in iteration 1.
+Execution time with 1 threads and 8 columns is 85.655039s in iteration 2.
+Execution time with 1 threads and 9 columns is 134.366488s in iteration 0.
+Execution time with 1 threads and 9 columns is 141.260095s in iteration 1.
+Execution time with 1 threads and 9 columns is 136.746685s in iteration 2.
+Execution time with 1 threads and 10 columns is 235.802679s in iteration 0.
+Execution time with 1 threads and 10 columns is 240.354014s in iteration 1.
+Execution time with 1 threads and 10 columns is 234.308321s in iteration 2.
+
+pinned:
+
+Execution time with 1 threads and 2 columns is 0.443898s in iteration 0.
+Execution time with 1 threads and 2 columns is 0.396327s in iteration 1.
+Execution time with 1 threads and 2 columns is 0.364813s in iteration 2.
+Execution time with 1 threads and 3 columns is 7.075874s in iteration 0.
+Execution time with 1 threads and 3 columns is 6.907014s in iteration 1.
+Execution time with 1 threads and 3 columns is 6.636095s in iteration 2.
+Execution time with 1 threads and 4 columns is 12.349527s in iteration 0.
+Execution time with 1 threads and 4 columns is 11.614272s in iteration 1.
+Execution time with 1 threads and 4 columns is 11.757167s in iteration 2.
+Execution time with 1 threads and 5 columns is 15.948192s in iteration 0.
+Execution time with 1 threads and 5 columns is 15.712062s in iteration 1.
+Execution time with 1 threads and 5 columns is 15.782894s in iteration 2.
+Execution time with 1 threads and 6 columns is 34.004719s in iteration 0.
+Execution time with 1 threads and 6 columns is 34.074834s in iteration 1.
+Execution time with 1 threads and 6 columns is 35.287140s in iteration 2.
+Execution time with 1 threads and 7 columns is 56.125487s in iteration 0.
+Execution time with 1 threads and 7 columns is 53.354590s in iteration 1.
+Execution time with 1 threads and 7 columns is 53.238626s in iteration 2.
+Execution time with 1 threads and 8 columns is 86.562218s in iteration 0.
+Execution time with 1 threads and 8 columns is 83.602692s in iteration 1.
+Execution time with 1 threads and 8 columns is 83.699085s in iteration 2.
+Execution time with 1 threads and 9 columns is 137.053841s in iteration 0.
+Execution time with 1 threads and 9 columns is 140.681125s in iteration 1.
+Execution time with 1 threads and 9 columns is 132.677498s in iteration 2.
+Execution time with 1 threads and 10 columns is 255.882485s in iteration 0.
+Execution time with 1 threads and 10 columns is 271.037614s in iteration 1.
+Execution time with 1 threads and 10 columns is 256.759613s in iteration 2.
+
+
