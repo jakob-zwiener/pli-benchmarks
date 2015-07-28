@@ -152,5 +152,11 @@ Execution time with 1 threads and 51 columns is 1303.813883s in iteration 2.
 Execution time with 1 threads and 52 columns is 1721.174135s in iteration 0.
 Execution time with 1 threads and 52 columns is 1723.225658s in iteration 1.
 Execution time with 1 threads and 52 columns is 1722.684941s in iteration 2.
+Execution time with 1 threads and 53 columns is 2157.048580s in iteration 0.
+Execution time with 1 threads and 53 columns is 2168.706214s in iteration 1.
+Execution time with 1 threads and 53 columns is 2167.675140s in iteration 2.
+Execution time with 1 threads and 54 columns is 3023.394633s in iteration 0.
+Execution time with 1 threads and 54 columns is 3051.171800s in iteration 1.
+Execution time with 1 threads and 54 columns is 3038.698625s in iteration 2.
 
 
