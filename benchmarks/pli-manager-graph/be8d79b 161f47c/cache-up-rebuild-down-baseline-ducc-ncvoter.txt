@@ -77,4 +77,5 @@ Execution time with 1 threads and 26 columns is 1768.236950s in iteration 2.
 Execution time with 1 threads and 27 columns is 1999.720119s in iteration 0.
 Execution time with 1 threads and 27 columns is 2040.748063s in iteration 1.
 Execution time with 1 threads and 27 columns is 2013.542266s in iteration 2.
+oom
 
