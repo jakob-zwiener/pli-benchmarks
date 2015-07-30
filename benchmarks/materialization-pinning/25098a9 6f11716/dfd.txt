@@ -27,6 +27,7 @@ Execution time with 1 threads and 9 columns is 136.746685s in iteration 2.
 Execution time with 1 threads and 10 columns is 235.802679s in iteration 0.
 Execution time with 1 threads and 10 columns is 240.354014s in iteration 1.
 Execution time with 1 threads and 10 columns is 234.308321s in iteration 2.
+oom
 
 pinned:
 
@@ -57,5 +58,6 @@ Execution time with 1 threads and 9 columns is 132.677498s in iteration 2.
 Execution time with 1 threads and 10 columns is 255.882485s in iteration 0.
 Execution time with 1 threads and 10 columns is 271.037614s in iteration 1.
 Execution time with 1 threads and 10 columns is 256.759613s in iteration 2.
+oom
 
 
