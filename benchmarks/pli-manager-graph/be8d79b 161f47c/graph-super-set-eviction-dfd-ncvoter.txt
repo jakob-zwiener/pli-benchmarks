@@ -64,5 +64,4 @@ Execution time with 1 threads and 9 columns is 68.311032s in iteration 2. 186 pl
 Execution time with 1 threads and 10 columns is 130.634519s in iteration 0. 297 plis where cached.
 Execution time with 1 threads and 10 columns is 125.303293s in iteration 1. 297 plis where cached.
 Execution time with 1 threads and 10 columns is 123.772558s in iteration 2. 297 plis where cached.
-
-Execution time with 1 threads and 10 columns is 129.918881s in iteration 0. 297 plis where cached.
+oom
