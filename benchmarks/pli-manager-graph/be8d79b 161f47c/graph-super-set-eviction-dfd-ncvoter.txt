@@ -37,4 +37,32 @@ oom
 
 without eviction:
 
+Execution time with 1 threads and 2 columns is 0.293860s in iteration 0. 3 plis where cached.
+Execution time with 1 threads and 2 columns is 0.258087s in iteration 1. 3 plis where cached.
+Execution time with 1 threads and 2 columns is 1.348361s in iteration 2. 3 plis where cached.
+Execution time with 1 threads and 3 columns is 2.263725s in iteration 0. 7 plis where cached.
+Execution time with 1 threads and 3 columns is 3.122656s in iteration 1. 7 plis where cached.
+Execution time with 1 threads and 3 columns is 2.239628s in iteration 2. 7 plis where cached.
+Execution time with 1 threads and 4 columns is 3.908231s in iteration 0. 14 plis where cached.
+Execution time with 1 threads and 4 columns is 3.528902s in iteration 1. 14 plis where cached.
+Execution time with 1 threads and 4 columns is 3.546489s in iteration 2. 14 plis where cached.
+Execution time with 1 threads and 5 columns is 8.831717s in iteration 0. 27 plis where cached.
+Execution time with 1 threads and 5 columns is 8.270749s in iteration 1. 27 plis where cached.
+Execution time with 1 threads and 5 columns is 8.376259s in iteration 2. 27 plis where cached.
+Execution time with 1 threads and 6 columns is 13.456231s in iteration 0. 48 plis where cached.
+Execution time with 1 threads and 6 columns is 13.259026s in iteration 1. 48 plis where cached.
+Execution time with 1 threads and 6 columns is 13.274702s in iteration 2. 48 plis where cached.
+Execution time with 1 threads and 7 columns is 34.646771s in iteration 0. 82 plis where cached.
+Execution time with 1 threads and 7 columns is 28.493659s in iteration 1. 82 plis where cached.
+Execution time with 1 threads and 7 columns is 28.548446s in iteration 2. 82 plis where cached.
+Execution time with 1 threads and 8 columns is 42.752382s in iteration 0. 125 plis where cached.
+Execution time with 1 threads and 8 columns is 39.295784s in iteration 1. 125 plis where cached.
+Execution time with 1 threads and 8 columns is 42.261239s in iteration 2. 125 plis where cached.
+Execution time with 1 threads and 9 columns is 70.487193s in iteration 0. 186 plis where cached.
+Execution time with 1 threads and 9 columns is 68.199045s in iteration 1. 186 plis where cached.
+Execution time with 1 threads and 9 columns is 68.311032s in iteration 2. 186 plis where cached.
+Execution time with 1 threads and 10 columns is 130.634519s in iteration 0. 297 plis where cached.
+Execution time with 1 threads and 10 columns is 125.303293s in iteration 1. 297 plis where cached.
+Execution time with 1 threads and 10 columns is 123.772558s in iteration 2. 297 plis where cached.
+
 Execution time with 1 threads and 10 columns is 129.918881s in iteration 0. 297 plis where cached.
