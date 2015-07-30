@@ -36,6 +36,7 @@ Execution time with 1 threads and 11 columns is 260.725454s in iteration 0. 130 
 Execution time with 1 threads and 12 columns is 525.175054s in iteration 0. 216 plis where cached.
 Execution time with 1 threads and 12 columns is 492.298213s in iteration 1. 216 plis where cached.
 Execution time with 1 threads and 12 columns is 547.759236s in iteration 2. 216 plis where cached.
+oom
 
 without eviction:
 
