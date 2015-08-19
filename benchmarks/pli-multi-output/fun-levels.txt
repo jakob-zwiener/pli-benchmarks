@@ -1,0 +1,24 @@
+1
+
+Level generation took 38.698738s.
+Level generation took 49.028224s.
+Level generation took 90.822426s.
+
+2
+
+Level generation took 22.610186s.
+Level generation took 26.541099s.
+Level generation took 62.678291s.
+
+3
+
+Level generation took 18.202116s.
+Level generation took 21.453013s.
+Level generation took 55.279341s.
+
+4
+
+Level generation took 18.883675s.
+Level generation took 23.616655s.
+Level generation took 61.850621s.
+
