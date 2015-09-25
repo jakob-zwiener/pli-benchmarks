@@ -1,0 +1,28 @@
+new IntegratedComposition(new IntegratedBinaryPacking(), new IntegratedVariableByte() 
+single thread
+
+541.331.785 bytes
+
+PLI build took: 249.732010s
+7.091667 intersections/s over 120s.
+
+new IntegratedComposition(new IntegratedBinaryPacking(), new IntegratedVariableByte());
+multi thread
+4
+
+541.331.785 byte
+
+PLI build took: 265.197228s
+5.090909 intersections/s over 121s.
+
+new IntegratedComposition(new IntegratedBinaryPacking(), new IntegratedVariableByte());
+multi thread
+1
+
+PLI build took: 287.581816s
+4.891667 intersections/s over 120s.
+
+
+
+
+
