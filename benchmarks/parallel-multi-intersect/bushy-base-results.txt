@@ -1,4 +1,5 @@
-PLI build took: 44.599161s
+PLI build took: 49.214595s
+0.048223307
 Raw key error is 7503463 for column combination ColumnCombinationBitset 11.
 Raw key error is 7503557 for column combination ColumnCombinationBitset 00011.
 Raw key error is 7503531 for column combination ColumnCombinationBitset 0000011.
@@ -85,28 +86,28 @@ Raw key error is 18704.
 Raw key error is 7499210.
 Raw key error is 70.
 Raw key error is 70.
-49.692100986
-49.692427786
+56.765168884
+0.002264733
 Raw key error is 7503557 for column combination ColumnCombinationBitset 00011.
 Raw key error is 7503463 for column combination ColumnCombinationBitset 11.
-Raw key error is 7503531 for column combination ColumnCombinationBitset 0000011.
 Raw key error is 7503562 for column combination ColumnCombinationBitset 000000011.
+Raw key error is 7503531 for column combination ColumnCombinationBitset 0000011.
 Raw key error is 7154176 for column combination ColumnCombinationBitset 0000000000011.
-Raw key error is 7466951 for column combination ColumnCombinationBitset 00000000000000011.
 Raw key error is 3690498 for column combination ColumnCombinationBitset 00000000011.
 Raw key error is 7399689 for column combination ColumnCombinationBitset 0000000000000000011.
+Raw key error is 7466951 for column combination ColumnCombinationBitset 00000000000000011.
 Raw key error is 7503265 for column combination ColumnCombinationBitset 000000000000000000011.
-Raw key error is 7477976 for column combination ColumnCombinationBitset 00000000000000000000011.
 Raw key error is 7502767 for column combination ColumnCombinationBitset 0000000000000000000000011.
-Raw key error is 7502572 for column combination ColumnCombinationBitset 0000000000000000000000000101.
+Raw key error is 7477976 for column combination ColumnCombinationBitset 00000000000000000000011.
 Raw key error is 7484127 for column combination ColumnCombinationBitset 0000000000000000000000000000011.
-Raw key error is 7496995 for column combination ColumnCombinationBitset 000000000000000000000000000000011.
+Raw key error is 7502572 for column combination ColumnCombinationBitset 0000000000000000000000000101.
 Raw key error is 7453627 for column combination ColumnCombinationBitset 00000000000000000000000000000000011.
+Raw key error is 7496995 for column combination ColumnCombinationBitset 000000000000000000000000000000011.
 Raw key error is 7391328 for column combination ColumnCombinationBitset 0000000000000000000000000000000000011.
 Raw key error is 5503230 for column combination ColumnCombinationBitset 0000000000000000000000000000000000000101.
 Raw key error is 7503556 for column combination ColumnCombinationBitset 000000000000000000000000000000000000000011.
-Raw key error is 7503559 for column combination ColumnCombinationBitset 0000000000000000000000000000000000000000000011.
 Raw key error is 7503560 for column combination ColumnCombinationBitset 00000000000000000000000000000000000000000011.
+Raw key error is 7503559 for column combination ColumnCombinationBitset 0000000000000000000000000000000000000000000011.
 Raw key error is 7503560 for column combination ColumnCombinationBitset 000000000000000000000000000000000000000000000011.
 Raw key error is 7498472 for column combination ColumnCombinationBitset 00000000000000000000000000000000000000000000000011.
 Raw key error is 7499367 for column combination ColumnCombinationBitset 000000000000000000000000000000000000000000000000000011.
@@ -123,20 +124,20 @@ Raw key error is 7503252 for column combination ColumnCombinationBitset 00000000
 Raw key error is 7503430 for column combination ColumnCombinationBitset 0000000000000000000000000000000000000000000000000000000000000000000000000011.
 Raw key error is 7503530 for column combination ColumnCombinationBitset 000000000000000000000000000000000000000000000000000000000000000000000000000011.
 Raw key error is 7503521 for column combination ColumnCombinationBitset 00000000000000000000000000000000000000000000000000000000000000000000000000000011.
-Raw key error is 4235134 for column combination ColumnCombinationBitset 0000000000000000000000000000000000000000000000000011.
 Raw key error is 7503515 for column combination ColumnCombinationBitset 0000000000000000000000000000000000000000000000000000000000000000000000000000000011.
 Raw key error is 7503532 for column combination ColumnCombinationBitset 000000000000000000000000000000000000000000000000000000000000000000000000000000000011.
 Raw key error is 7503498 for column combination ColumnCombinationBitset 00000000000000000000000000000000000000000000000000000000000000000000000000000000000011.
-Raw key error is 7503560 for column combination ColumnCombinationBitset 000000000000000000000000000000000000000000000000000000000000000000000000000000000000000011.
 Raw key error is 7503506 for column combination ColumnCombinationBitset 0000000000000000000000000000000000000000000000000000000000000000000000000000000000000011.
+Raw key error is 7503560 for column combination ColumnCombinationBitset 000000000000000000000000000000000000000000000000000000000000000000000000000000000000000011.
 Raw key error is 7496337 for column combination ColumnCombinationBitset 000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000101.
+Raw key error is 4235134 for column combination ColumnCombinationBitset 0000000000000000000000000000000000000000000000000011.
 Raw key error is 7503061.
 Raw key error is 7503531.
 Raw key error is 556641.
-Raw key error is 7433609.
 Raw key error is 4557854.
-Raw key error is 7502572.
+Raw key error is 7433609.
 Raw key error is 7475997.
+Raw key error is 7502572.
 Raw key error is 7391184.
 Raw key error is 7503551.
 Raw key error is 5338678.
@@ -150,9 +151,9 @@ Raw key error is 7503418.
 Raw key error is 7503507.
 Raw key error is 7503486.
 Raw key error is 7503471.
-Raw key error is 3455300.
 Raw key error is 7493009.
 Raw key error is 7501143.
+Raw key error is 3455300.
 Raw key error is 15382.
 Raw key error is 7369736.
 Raw key error is 7251956.
@@ -165,50 +166,50 @@ Raw key error is 7492887.
 Raw key error is 2690.
 Raw key error is 6928833.
 Raw key error is 7500468.
-Raw key error is 363308.
 Raw key error is 7502703.
 Raw key error is 1426.
-Raw key error is 112690.
+Raw key error is 363308.
 Raw key error is 7499210.
+Raw key error is 112690.
 Raw key error is 18704.
 Raw key error is 70.
 Raw key error is 70.
-28.140407697
-28.140539781
+30.683911547
+0.003020523
 Raw key error is 7503562 for column combination ColumnCombinationBitset 000000011.
-Raw key error is 7503557 for column combination ColumnCombinationBitset 00011.
 Raw key error is 7503463 for column combination ColumnCombinationBitset 11.
+Raw key error is 7503557 for column combination ColumnCombinationBitset 00011.
 Raw key error is 7503531 for column combination ColumnCombinationBitset 0000011.
 Raw key error is 7399689 for column combination ColumnCombinationBitset 0000000000000000011.
-Raw key error is 7466951 for column combination ColumnCombinationBitset 00000000000000011.
 Raw key error is 7154176 for column combination ColumnCombinationBitset 0000000000011.
+Raw key error is 7466951 for column combination ColumnCombinationBitset 00000000000000011.
 Raw key error is 7503265 for column combination ColumnCombinationBitset 000000000000000000011.
 Raw key error is 7477976 for column combination ColumnCombinationBitset 00000000000000000000011.
 Raw key error is 7502767 for column combination ColumnCombinationBitset 0000000000000000000000011.
-Raw key error is 7484127 for column combination ColumnCombinationBitset 0000000000000000000000000000011.
 Raw key error is 7502572 for column combination ColumnCombinationBitset 0000000000000000000000000101.
+Raw key error is 7484127 for column combination ColumnCombinationBitset 0000000000000000000000000000011.
 Raw key error is 7496995 for column combination ColumnCombinationBitset 000000000000000000000000000000011.
 Raw key error is 7453627 for column combination ColumnCombinationBitset 00000000000000000000000000000000011.
-Raw key error is 7391328 for column combination ColumnCombinationBitset 0000000000000000000000000000000000011.
 Raw key error is 3690498 for column combination ColumnCombinationBitset 00000000011.
+Raw key error is 7391328 for column combination ColumnCombinationBitset 0000000000000000000000000000000000011.
 Raw key error is 7503556 for column combination ColumnCombinationBitset 000000000000000000000000000000000000000011.
-Raw key error is 5503230 for column combination ColumnCombinationBitset 0000000000000000000000000000000000000101.
-Raw key error is 7503560 for column combination ColumnCombinationBitset 00000000000000000000000000000000000000000011.
 Raw key error is 7503559 for column combination ColumnCombinationBitset 0000000000000000000000000000000000000000000011.
+Raw key error is 7503560 for column combination ColumnCombinationBitset 00000000000000000000000000000000000000000011.
 Raw key error is 7503560 for column combination ColumnCombinationBitset 000000000000000000000000000000000000000000000011.
-Raw key error is 7502754 for column combination ColumnCombinationBitset 00000000000000000000000000000000000000000000000000000011.
+Raw key error is 5503230 for column combination ColumnCombinationBitset 0000000000000000000000000000000000000101.
 Raw key error is 7499367 for column combination ColumnCombinationBitset 000000000000000000000000000000000000000000000000000011.
-Raw key error is 7503172 for column combination ColumnCombinationBitset 0000000000000000000000000000000000000000000000000000000011.
+Raw key error is 7502754 for column combination ColumnCombinationBitset 00000000000000000000000000000000000000000000000000000011.
 Raw key error is 7498472 for column combination ColumnCombinationBitset 00000000000000000000000000000000000000000000000011.
 Raw key error is 7503427 for column combination ColumnCombinationBitset 000000000000000000000000000000000000000000000000000000000011.
+Raw key error is 7503172 for column combination ColumnCombinationBitset 0000000000000000000000000000000000000000000000000000000011.
 Raw key error is 7503480 for column combination ColumnCombinationBitset 00000000000000000000000000000000000000000000000000000000000011.
 Raw key error is 7503463 for column combination ColumnCombinationBitset 0000000000000000000000000000000000000000000000000000000000000011.
 Raw key error is 7503309 for column combination ColumnCombinationBitset 000000000000000000000000000000000000000000000000000000000000000011.
 Raw key error is 7503072 for column combination ColumnCombinationBitset 00000000000000000000000000000000000000000000000000000000000000000011.
 Raw key error is 7503267 for column combination ColumnCombinationBitset 0000000000000000000000000000000000000000000000000000000000000000000011.
 Raw key error is 7503244 for column combination ColumnCombinationBitset 000000000000000000000000000000000000000000000000000000000000000000000011.
-Raw key error is 7503252 for column combination ColumnCombinationBitset 00000000000000000000000000000000000000000000000000000000000000000000000011.
 Raw key error is 7503430 for column combination ColumnCombinationBitset 0000000000000000000000000000000000000000000000000000000000000000000000000011.
+Raw key error is 7503252 for column combination ColumnCombinationBitset 00000000000000000000000000000000000000000000000000000000000000000000000011.
 Raw key error is 7503530 for column combination ColumnCombinationBitset 000000000000000000000000000000000000000000000000000000000000000000000000000011.
 Raw key error is 7503521 for column combination ColumnCombinationBitset 00000000000000000000000000000000000000000000000000000000000000000000000000000011.
 Raw key error is 7503515 for column combination ColumnCombinationBitset 0000000000000000000000000000000000000000000000000000000000000000000000000000000011.
@@ -217,87 +218,87 @@ Raw key error is 7503498 for column combination ColumnCombinationBitset 00000000
 Raw key error is 7503506 for column combination ColumnCombinationBitset 0000000000000000000000000000000000000000000000000000000000000000000000000000000000000011.
 Raw key error is 7503560 for column combination ColumnCombinationBitset 000000000000000000000000000000000000000000000000000000000000000000000000000000000000000011.
 Raw key error is 7503061.
-Raw key error is 7496337 for column combination ColumnCombinationBitset 000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000101.
 Raw key error is 7503531.
+Raw key error is 7496337 for column combination ColumnCombinationBitset 000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000101.
 Raw key error is 7433609.
 Raw key error is 7502572.
 Raw key error is 7475997.
 Raw key error is 7391184.
-Raw key error is 5338678.
-Raw key error is 4557854.
 Raw key error is 7503551.
+Raw key error is 4557854.
+Raw key error is 5338678.
 Raw key error is 7502600.
+Raw key error is 7490930.
 Raw key error is 7503410.
 Raw key error is 556641.
 Raw key error is 7503289.
-Raw key error is 7490930.
+Raw key error is 7503418.
 Raw key error is 7502877.
 Raw key error is 7502976.
-Raw key error is 7503418.
 Raw key error is 7503507.
 Raw key error is 7503486.
 Raw key error is 7503471.
-Raw key error is 4235134 for column combination ColumnCombinationBitset 0000000000000000000000000000000000000000000000000011.
-Raw key error is 7369736.
 Raw key error is 7501143.
 Raw key error is 7493009.
+Raw key error is 4235134 for column combination ColumnCombinationBitset 0000000000000000000000000000000000000000000000000011.
+Raw key error is 7369736.
 Raw key error is 7502360.
-Raw key error is 15382.
-Raw key error is 4969123.
 Raw key error is 7251956.
-Raw key error is 7502673.
+Raw key error is 4969123.
+Raw key error is 15382.
 Raw key error is 7502900.
+Raw key error is 7502673.
 Raw key error is 7503444.
 Raw key error is 2690.
 Raw key error is 7492887.
-Raw key error is 7502703.
 Raw key error is 7500468.
+Raw key error is 7502703.
 Raw key error is 6928833.
-Raw key error is 7499210.
 Raw key error is 1426.
+Raw key error is 7499210.
 Raw key error is 3455300.
 Raw key error is 363308.
 Raw key error is 112690.
 Raw key error is 18704.
 Raw key error is 70.
 Raw key error is 70.
-20.298617813
-20.298804529
+26.200123294
+0.003669697
 Raw key error is 7503562 for column combination ColumnCombinationBitset 000000011.
 Raw key error is 7503557 for column combination ColumnCombinationBitset 00011.
 Raw key error is 7503463 for column combination ColumnCombinationBitset 11.
 Raw key error is 7503531 for column combination ColumnCombinationBitset 0000011.
-Raw key error is 7477976 for column combination ColumnCombinationBitset 00000000000000000000011.
 Raw key error is 7503265 for column combination ColumnCombinationBitset 000000000000000000011.
 Raw key error is 7502767 for column combination ColumnCombinationBitset 0000000000000000000000011.
+Raw key error is 7477976 for column combination ColumnCombinationBitset 00000000000000000000011.
 Raw key error is 7399689 for column combination ColumnCombinationBitset 0000000000000000011.
 Raw key error is 7502572 for column combination ColumnCombinationBitset 0000000000000000000000000101.
 Raw key error is 7484127 for column combination ColumnCombinationBitset 0000000000000000000000000000011.
-Raw key error is 7496995 for column combination ColumnCombinationBitset 000000000000000000000000000000011.
 Raw key error is 7453627 for column combination ColumnCombinationBitset 00000000000000000000000000000000011.
+Raw key error is 7496995 for column combination ColumnCombinationBitset 000000000000000000000000000000011.
 Raw key error is 7503556 for column combination ColumnCombinationBitset 000000000000000000000000000000000000000011.
+Raw key error is 7503559 for column combination ColumnCombinationBitset 0000000000000000000000000000000000000000000011.
 Raw key error is 7503560 for column combination ColumnCombinationBitset 00000000000000000000000000000000000000000011.
-Raw key error is 7466951 for column combination ColumnCombinationBitset 00000000000000011.
 Raw key error is 7154176 for column combination ColumnCombinationBitset 0000000000011.
 Raw key error is 7391328 for column combination ColumnCombinationBitset 0000000000000000000000000000000000011.
-Raw key error is 7503559 for column combination ColumnCombinationBitset 0000000000000000000000000000000000000000000011.
-Raw key error is 5503230 for column combination ColumnCombinationBitset 0000000000000000000000000000000000000101.
 Raw key error is 7503560 for column combination ColumnCombinationBitset 000000000000000000000000000000000000000000000011.
+Raw key error is 7466951 for column combination ColumnCombinationBitset 00000000000000011.
+Raw key error is 5503230 for column combination ColumnCombinationBitset 0000000000000000000000000000000000000101.
 Raw key error is 7502754 for column combination ColumnCombinationBitset 00000000000000000000000000000000000000000000000000000011.
-Raw key error is 7503172 for column combination ColumnCombinationBitset 0000000000000000000000000000000000000000000000000000000011.
 Raw key error is 7503427 for column combination ColumnCombinationBitset 000000000000000000000000000000000000000000000000000000000011.
+Raw key error is 7503172 for column combination ColumnCombinationBitset 0000000000000000000000000000000000000000000000000000000011.
 Raw key error is 7503480 for column combination ColumnCombinationBitset 00000000000000000000000000000000000000000000000000000000000011.
+Raw key error is 7499367 for column combination ColumnCombinationBitset 000000000000000000000000000000000000000000000000000011.
 Raw key error is 7503463 for column combination ColumnCombinationBitset 0000000000000000000000000000000000000000000000000000000000000011.
 Raw key error is 7503309 for column combination ColumnCombinationBitset 000000000000000000000000000000000000000000000000000000000000000011.
-Raw key error is 7499367 for column combination ColumnCombinationBitset 000000000000000000000000000000000000000000000000000011.
-Raw key error is 7503267 for column combination ColumnCombinationBitset 0000000000000000000000000000000000000000000000000000000000000000000011.
 Raw key error is 7503072 for column combination ColumnCombinationBitset 00000000000000000000000000000000000000000000000000000000000000000011.
-Raw key error is 7503430 for column combination ColumnCombinationBitset 0000000000000000000000000000000000000000000000000000000000000000000000000011.
-Raw key error is 7503244 for column combination ColumnCombinationBitset 000000000000000000000000000000000000000000000000000000000000000000000011.
-Raw key error is 3690498 for column combination ColumnCombinationBitset 00000000011.
-Raw key error is 7503252 for column combination ColumnCombinationBitset 00000000000000000000000000000000000000000000000000000000000000000000000011.
+Raw key error is 7503267 for column combination ColumnCombinationBitset 0000000000000000000000000000000000000000000000000000000000000000000011.
 Raw key error is 7498472 for column combination ColumnCombinationBitset 00000000000000000000000000000000000000000000000011.
+Raw key error is 7503244 for column combination ColumnCombinationBitset 000000000000000000000000000000000000000000000000000000000000000000000011.
+Raw key error is 7503252 for column combination ColumnCombinationBitset 00000000000000000000000000000000000000000000000000000000000000000000000011.
+Raw key error is 7503430 for column combination ColumnCombinationBitset 0000000000000000000000000000000000000000000000000000000000000000000000000011.
 Raw key error is 7503530 for column combination ColumnCombinationBitset 000000000000000000000000000000000000000000000000000000000000000000000000000011.
+Raw key error is 3690498 for column combination ColumnCombinationBitset 00000000011.
 Raw key error is 7503521 for column combination ColumnCombinationBitset 00000000000000000000000000000000000000000000000000000000000000000000000000000011.
 Raw key error is 7503515 for column combination ColumnCombinationBitset 0000000000000000000000000000000000000000000000000000000000000000000000000000000011.
 Raw key error is 7503532 for column combination ColumnCombinationBitset 000000000000000000000000000000000000000000000000000000000000000000000000000000000011.
@@ -305,37 +306,37 @@ Raw key error is 7503498 for column combination ColumnCombinationBitset 00000000
 Raw key error is 7503506 for column combination ColumnCombinationBitset 0000000000000000000000000000000000000000000000000000000000000000000000000000000000000011.
 Raw key error is 7503560 for column combination ColumnCombinationBitset 000000000000000000000000000000000000000000000000000000000000000000000000000000000000000011.
 Raw key error is 7503061.
-Raw key error is 7496337 for column combination ColumnCombinationBitset 000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000101.
 Raw key error is 7503531.
-Raw key error is 7502572.
+Raw key error is 7496337 for column combination ColumnCombinationBitset 000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000101.
 Raw key error is 7475997.
-Raw key error is 7433609.
-Raw key error is 7391184.
 Raw key error is 7503551.
+Raw key error is 7502572.
+Raw key error is 7433609.
 Raw key error is 7503410.
 Raw key error is 7502600.
+Raw key error is 7391184.
 Raw key error is 7503289.
 Raw key error is 7502877.
-Raw key error is 7502976.
 Raw key error is 7503418.
+Raw key error is 7502976.
 Raw key error is 7503507.
 Raw key error is 5338678.
-Raw key error is 7503486.
 Raw key error is 7503471.
+Raw key error is 7503486.
 Raw key error is 7490930.
 Raw key error is 7501143.
-Raw key error is 7369736.
 Raw key error is 7502360.
-Raw key error is 7493009.
-Raw key error is 4557854.
-Raw key error is 7503444.
-Raw key error is 7502900.
 Raw key error is 7502673.
-Raw key error is 7502703.
+Raw key error is 7502900.
+Raw key error is 7369736.
+Raw key error is 7493009.
+Raw key error is 7503444.
+Raw key error is 4557854.
 Raw key error is 7251956.
-Raw key error is 4969123.
 Raw key error is 7500468.
+Raw key error is 7502703.
 Raw key error is 7492887.
+Raw key error is 4969123.
 Raw key error is 556641.
 Raw key error is 7499210.
 Raw key error is 6928833.
@@ -349,5 +350,92 @@ Raw key error is 112690.
 Raw key error is 18704.
 Raw key error is 70.
 Raw key error is 70.
-15.191236478
-15.191375235
+17.269520518
+0.016243825
+Raw key error is 7503562 for column combination ColumnCombinationBitset 000000011.
+Raw key error is 7503557 for column combination ColumnCombinationBitset 00011.
+Raw key error is 7502767 for column combination ColumnCombinationBitset 0000000000000000000000011.
+Raw key error is 7477976 for column combination ColumnCombinationBitset 00000000000000000000011.
+Raw key error is 7503265 for column combination ColumnCombinationBitset 000000000000000000011.
+Raw key error is 7496995 for column combination ColumnCombinationBitset 000000000000000000000000000000011.
+Raw key error is 7484127 for column combination ColumnCombinationBitset 0000000000000000000000000000011.
+Raw key error is 7503463 for column combination ColumnCombinationBitset 11.
+Raw key error is 7503531 for column combination ColumnCombinationBitset 0000011.
+Raw key error is 7502572 for column combination ColumnCombinationBitset 0000000000000000000000000101.
+Raw key error is 7453627 for column combination ColumnCombinationBitset 00000000000000000000000000000000011.
+Raw key error is 7503560 for column combination ColumnCombinationBitset 00000000000000000000000000000000000000000011.
+Raw key error is 7503560 for column combination ColumnCombinationBitset 000000000000000000000000000000000000000000000011.
+Raw key error is 7503559 for column combination ColumnCombinationBitset 0000000000000000000000000000000000000000000011.
+Raw key error is 7503556 for column combination ColumnCombinationBitset 000000000000000000000000000000000000000011.
+Raw key error is 7391328 for column combination ColumnCombinationBitset 0000000000000000000000000000000000011.
+Raw key error is 7502754 for column combination ColumnCombinationBitset 00000000000000000000000000000000000000000000000000000011.
+Raw key error is 7503172 for column combination ColumnCombinationBitset 0000000000000000000000000000000000000000000000000000000011.
+Raw key error is 7503480 for column combination ColumnCombinationBitset 00000000000000000000000000000000000000000000000000000000000011.
+Raw key error is 7503463 for column combination ColumnCombinationBitset 0000000000000000000000000000000000000000000000000000000000000011.
+Raw key error is 7503309 for column combination ColumnCombinationBitset 000000000000000000000000000000000000000000000000000000000000000011.
+Raw key error is 7399689 for column combination ColumnCombinationBitset 0000000000000000011.
+Raw key error is 7503072 for column combination ColumnCombinationBitset 00000000000000000000000000000000000000000000000000000000000000000011.
+Raw key error is 7503427 for column combination ColumnCombinationBitset 000000000000000000000000000000000000000000000000000000000011.
+Raw key error is 5503230 for column combination ColumnCombinationBitset 0000000000000000000000000000000000000101.
+Raw key error is 7503244 for column combination ColumnCombinationBitset 000000000000000000000000000000000000000000000000000000000000000000000011.
+Raw key error is 7503430 for column combination ColumnCombinationBitset 0000000000000000000000000000000000000000000000000000000000000000000000000011.
+Raw key error is 7503530 for column combination ColumnCombinationBitset 000000000000000000000000000000000000000000000000000000000000000000000000000011.
+Raw key error is 7503521 for column combination ColumnCombinationBitset 00000000000000000000000000000000000000000000000000000000000000000000000000000011.
+Raw key error is 7503515 for column combination ColumnCombinationBitset 0000000000000000000000000000000000000000000000000000000000000000000000000000000011.
+Raw key error is 7499367 for column combination ColumnCombinationBitset 000000000000000000000000000000000000000000000000000011.
+Raw key error is 7503252 for column combination ColumnCombinationBitset 00000000000000000000000000000000000000000000000000000000000000000000000011.
+Raw key error is 7503532 for column combination ColumnCombinationBitset 000000000000000000000000000000000000000000000000000000000000000000000000000000000011.
+Raw key error is 7503267 for column combination ColumnCombinationBitset 0000000000000000000000000000000000000000000000000000000000000000000011.
+Raw key error is 7503498 for column combination ColumnCombinationBitset 00000000000000000000000000000000000000000000000000000000000000000000000000000000000011.
+Raw key error is 7503506 for column combination ColumnCombinationBitset 0000000000000000000000000000000000000000000000000000000000000000000000000000000000000011.
+Raw key error is 7466951 for column combination ColumnCombinationBitset 00000000000000011.
+Raw key error is 7503560 for column combination ColumnCombinationBitset 000000000000000000000000000000000000000000000000000000000000000000000000000000000000000011.
+Raw key error is 7503061.
+Raw key error is 7433609.
+Raw key error is 7154176 for column combination ColumnCombinationBitset 0000000000011.
+Raw key error is 7498472 for column combination ColumnCombinationBitset 00000000000000000000000000000000000000000000000011.
+Raw key error is 7475997.
+Raw key error is 7496337 for column combination ColumnCombinationBitset 000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000101.
+Raw key error is 7503531.
+Raw key error is 7503551.
+Raw key error is 7502572.
+Raw key error is 7503289.
+Raw key error is 7503410.
+Raw key error is 7503507.
+Raw key error is 7502600.
+Raw key error is 7503418.
+Raw key error is 7503486.
+Raw key error is 7503471.
+Raw key error is 7502976.
+Raw key error is 7391184.
+Raw key error is 7503444.
+Raw key error is 7502877.
+Raw key error is 7501143.
+Raw key error is 5338678.
+Raw key error is 7502360.
+Raw key error is 7502900.
+Raw key error is 3690498 for column combination ColumnCombinationBitset 00000000011.
+Raw key error is 7493009.
+Raw key error is 7502703.
+Raw key error is 7369736.
+Raw key error is 7502673.
+Raw key error is 7490930.
+Raw key error is 7251956.
+Raw key error is 4969123.
+Raw key error is 7492887.
+Raw key error is 7500468.
+Raw key error is 7499210.
+Raw key error is 4557854.
+Raw key error is 6928833.
+Raw key error is 556641.
+Raw key error is 15382.
+Raw key error is 2690.
+Raw key error is 1426.
+Raw key error is 4235134 for column combination ColumnCombinationBitset 0000000000000000000000000000000000000000000000000011.
+Raw key error is 3455300.
+Raw key error is 363308.
+Raw key error is 112690.
+Raw key error is 18704.
+Raw key error is 70.
+Raw key error is 70.
+18.035961767
