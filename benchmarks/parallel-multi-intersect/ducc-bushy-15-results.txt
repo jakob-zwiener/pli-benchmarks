@@ -1,0 +1,13 @@
+PLI build took: 42.966054s
+Execution time with 1 threads, and 15 columns is 319.576073s in iteration 0.
+Execution time with 1 threads, and 15 columns is 320.875927s in iteration 1.
+Execution time with 1 threads, and 15 columns is 324.528751s in iteration 2.
+Execution time with 2 threads, and 15 columns is 307.576100s in iteration 0.
+Execution time with 2 threads, and 15 columns is 319.425062s in iteration 1.
+Execution time with 2 threads, and 15 columns is 296.189440s in iteration 2.
+Execution time with 3 threads, and 15 columns is 309.099510s in iteration 0.
+Execution time with 3 threads, and 15 columns is 286.669298s in iteration 1.
+Execution time with 3 threads, and 15 columns is 285.456724s in iteration 2.
+Execution time with 4 threads, and 15 columns is 298.024215s in iteration 0.
+Execution time with 4 threads, and 15 columns is 286.542030s in iteration 1.
+Execution time with 4 threads, and 15 columns is 312.245422s in iteration 2.
