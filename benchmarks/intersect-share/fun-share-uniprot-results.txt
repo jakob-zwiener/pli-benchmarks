@@ -1,0 +1,4 @@
+PLI build took: 4.479970s
+Execution time with 1 threads, and 19 columns is 170.702762s in iteration 0. Intersections took 165.021215s.
+Execution time with 1 threads, and 19 columns is 164.546674s in iteration 1. Intersections took 159.626325s.
+Execution time with 1 threads, and 19 columns is 165.495132s in iteration 2. Intersections took 160.279890s.
