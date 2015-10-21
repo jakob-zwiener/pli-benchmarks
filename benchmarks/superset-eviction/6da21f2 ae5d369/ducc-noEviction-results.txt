@@ -52,3 +52,7 @@ Execution time with 1 threads, and 170 columns is 2898.728467s in iteration 1. 1
 Execution time with 1 threads, and 170 columns is 2898.369813s in iteration 2. 194237 PLIs cached.
 Execution time with 1 threads, and 180 columns is 3687.058139s in iteration 0. 237300 PLIs cached.
 Execution time with 1 threads, and 180 columns is 3690.612407s in iteration 1. 237300 PLIs cached.
+Execution time with 1 threads, and 180 columns is 3685.917827s in iteration 2. 237300 PLIs cached.
+Execution time with 1 threads, and 190 columns is 6792.021109s in iteration 0. 363213 PLIs cached.
+Execution time with 1 threads, and 190 columns is 6792.103423s in iteration 1. 363213 PLIs cached.
+Execution time with 1 threads, and 190 columns is 6792.238920s in iteration 2. 363213 PLIs cached.
