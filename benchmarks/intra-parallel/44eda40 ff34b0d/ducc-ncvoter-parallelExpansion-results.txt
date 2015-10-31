@@ -1,0 +1,19 @@
+PLI build took: 339.191073s
+Execution time with 1 threads, and 22 columns is 1631.695917s in iteration 0. 1044 PLIs cached.
+Execution time with 1 threads, and 22 columns is 1653.925412s in iteration 1. 1044 PLIs cached.
+Execution time with 1 threads, and 22 columns is 1336.251862s in iteration 2. 1044 PLIs cached.
+Execution time with 2 threads, and 22 columns is 1382.746362s in iteration 0. 1044 PLIs cached.
+Execution time with 2 threads, and 22 columns is 1381.915932s in iteration 1. 1044 PLIs cached.
+Execution time with 2 threads, and 22 columns is 1714.206659s in iteration 2. 1044 PLIs cached.
+Execution time with 4 threads, and 22 columns is 1605.338592s in iteration 0. 1044 PLIs cached.
+Execution time with 4 threads, and 22 columns is 1463.057544s in iteration 1. 1044 PLIs cached.
+Execution time with 4 threads, and 22 columns is 1527.071471s in iteration 2. 1044 PLIs cached.
+Execution time with 8 threads, and 22 columns is 1334.940240s in iteration 0. 1044 PLIs cached.
+Execution time with 8 threads, and 22 columns is 1437.383775s in iteration 1. 1044 PLIs cached.
+Execution time with 8 threads, and 22 columns is 1414.865933s in iteration 2. 1044 PLIs cached.
+Execution time with 16 threads, and 22 columns is 1304.235860s in iteration 0. 1044 PLIs cached.
+Execution time with 16 threads, and 22 columns is 1234.532051s in iteration 1. 1044 PLIs cached.
+Execution time with 16 threads, and 22 columns is 1126.615115s in iteration 2. 1044 PLIs cached.
+Execution time with 32 threads, and 22 columns is 1200.670496s in iteration 0. 1044 PLIs cached.
+Execution time with 32 threads, and 22 columns is 1205.116477s in iteration 1. 1044 PLIs cached.
+Execution time with 32 threads, and 22 columns is 1162.682104s in iteration 2. 1044 PLIs cached.
