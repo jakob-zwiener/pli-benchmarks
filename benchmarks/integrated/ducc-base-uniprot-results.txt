@@ -41,4 +41,13 @@ Execution time with 1 threads, and 130 columns is 1082.083518s in iteration 2. 8
 Execution time with 1 threads, and 140 columns is 1461.617577s in iteration 0. 119571 PLIs cached.
 Execution time with 1 threads, and 140 columns is 1462.828545s in iteration 1. 119571 PLIs cached.
 Execution time with 1 threads, and 140 columns is 1464.237052s in iteration 2. 119571 PLIs cached.
-Execution time with 1 threads, and 150 columns is 2424.852230s in iteration 0. 192696 PLIs cached.
+Execution time with 1 threads, and 150 columns is 2677.465281s in iteration 0. 192696 PLIs cached.
+Execution time with 1 threads, and 150 columns is 2678.296861s in iteration 1. 192696 PLIs cached.
+Execution time with 1 threads, and 150 columns is 2614.287069s in iteration 2. 192696 PLIs cached.
+Execution time with 1 threads, and 160 columns is 3128.971772s in iteration 0. 234690 PLIs cached.
+Execution time with 1 threads, and 160 columns is 3121.941480s in iteration 1. 234690 PLIs cached.
+Execution time with 1 threads, and 160 columns is 3136.238112s in iteration 2. 234690 PLIs cached.
+Execution time with 1 threads, and 170 columns is 2823.199236s in iteration 0. 212511 PLIs cached.
+Execution time with 1 threads, and 170 columns is 2911.209366s in iteration 1. 212511 PLIs cached.
+Execution time with 1 threads, and 170 columns is 2908.968357s in iteration 2. 212511 PLIs cached.
+Execution time with 1 threads, and 180 columns is 3610.642022s in iteration 0. 261342 PLIs cached.
