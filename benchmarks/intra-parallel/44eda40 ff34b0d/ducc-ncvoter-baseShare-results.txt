@@ -1,0 +1,4 @@
+PLI build took: 326.802271s
+Execution time with 1 threads, and 14 columns is 243.990545s in iteration 0. 232 PLIs cached. Expansion share 0.157006, probing share 0.756633, Intersect share 0.999729.
+Execution time with 1 threads, and 14 columns is 246.292025s in iteration 1. 232 PLIs cached. Expansion share 0.159663, probing share 0.748041, Intersect share 0.999895.
+Execution time with 1 threads, and 14 columns is 243.484559s in iteration 2. 232 PLIs cached. Expansion share 0.160284, probing share 0.750522, Intersect share 0.999920.
