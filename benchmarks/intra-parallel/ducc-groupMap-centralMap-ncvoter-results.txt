@@ -1,0 +1,5 @@
+PLI build took: 40.584494s
+Execution time with 1 threads, and 10 columns is 51.176684s in iteration 0. 50 PLIs cached.
+Execution time with 2 threads, and 10 columns is 47.701833s in iteration 0. 50 PLIs cached.
+Execution time with 4 threads, and 10 columns is 63.053058s in iteration 0. 50 PLIs cached.
+Execution time with 8 threads, and 10 columns is 58.508083s in iteration 0. 50 PLIs cached.

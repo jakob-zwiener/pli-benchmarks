@@ -1,0 +1,19 @@
+PLI build took: 332.997546s
+Execution time with 1 threads, and 10 columns is 70.435766s in iteration 0. 50 PLIs cached.
+Execution time with 1 threads, and 10 columns is 70.022381s in iteration 1. 50 PLIs cached.
+Execution time with 1 threads, and 10 columns is 76.226915s in iteration 2. 50 PLIs cached.
+Execution time with 2 threads, and 10 columns is 58.421210s in iteration 0. 50 PLIs cached.
+Execution time with 2 threads, and 10 columns is 56.295707s in iteration 1. 50 PLIs cached.
+Execution time with 2 threads, and 10 columns is 54.500676s in iteration 2. 50 PLIs cached.
+Execution time with 4 threads, and 10 columns is 72.147208s in iteration 0. 50 PLIs cached.
+Execution time with 4 threads, and 10 columns is 69.765628s in iteration 1. 50 PLIs cached.
+Execution time with 4 threads, and 10 columns is 69.964388s in iteration 2. 50 PLIs cached.
+Execution time with 8 threads, and 10 columns is 72.500381s in iteration 0. 50 PLIs cached.
+Execution time with 8 threads, and 10 columns is 73.882355s in iteration 1. 50 PLIs cached.
+Execution time with 8 threads, and 10 columns is 73.560311s in iteration 2. 50 PLIs cached.
+Execution time with 16 threads, and 10 columns is 69.696060s in iteration 0. 50 PLIs cached.
+Execution time with 16 threads, and 10 columns is 73.075924s in iteration 1. 50 PLIs cached.
+Execution time with 16 threads, and 10 columns is 72.595429s in iteration 2. 50 PLIs cached.
+Execution time with 32 threads, and 10 columns is 70.711791s in iteration 0. 50 PLIs cached.
+Execution time with 32 threads, and 10 columns is 70.845371s in iteration 1. 50 PLIs cached.
+Execution time with 32 threads, and 10 columns is 73.446578s in iteration 2. 50 PLIs cached.
