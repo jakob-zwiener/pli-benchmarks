@@ -126,3 +126,22 @@ Execution time with 32 threads, and 22 columns is 837.602042s in iteration 0. 10
 Execution time with 32 threads, and 22 columns is 833.248707s in iteration 1. 1044 PLIs cached.
 Execution time with 32 threads, and 22 columns is 837.164031s in iteration 2. 1044 PLIs cached.
 Execution time with 1 threads, and 24 columns is 3397.758596s in iteration 0. 1837 PLIs cached.
+PLI build took: 334.919097s
+Execution time with 1 threads, and 14 columns is 264.898017s in iteration 0. 232 PLIs cached.
+Execution time with 1 threads, and 14 columns is 276.468014s in iteration 1. 232 PLIs cached.
+Execution time with 1 threads, and 14 columns is 266.150962s in iteration 2. 232 PLIs cached.
+Execution time with 2 threads, and 14 columns is 249.042453s in iteration 0. 232 PLIs cached.
+Execution time with 2 threads, and 14 columns is 249.142661s in iteration 1. 232 PLIs cached.
+Execution time with 2 threads, and 14 columns is 254.349670s in iteration 2. 232 PLIs cached.
+Execution time with 4 threads, and 14 columns is 190.329353s in iteration 0. 232 PLIs cached.
+Execution time with 4 threads, and 14 columns is 200.416144s in iteration 1. 232 PLIs cached.
+Execution time with 4 threads, and 14 columns is 202.866029s in iteration 2. 232 PLIs cached.
+Execution time with 8 threads, and 14 columns is 168.350831s in iteration 0. 232 PLIs cached.
+Execution time with 8 threads, and 14 columns is 163.115441s in iteration 1. 232 PLIs cached.
+Execution time with 8 threads, and 14 columns is 162.969571s in iteration 2. 232 PLIs cached.
+Execution time with 16 threads, and 14 columns is 165.482398s in iteration 0. 232 PLIs cached.
+Execution time with 16 threads, and 14 columns is 155.252451s in iteration 1. 232 PLIs cached.
+Execution time with 16 threads, and 14 columns is 151.414191s in iteration 2. 232 PLIs cached.
+Execution time with 32 threads, and 14 columns is 170.328050s in iteration 0. 232 PLIs cached.
+Execution time with 32 threads, and 14 columns is 166.098436s in iteration 1. 232 PLIs cached.
+Execution time with 32 threads, and 14 columns is 170.448047s in iteration 2. 232 PLIs cached.
