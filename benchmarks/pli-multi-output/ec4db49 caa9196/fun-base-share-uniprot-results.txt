@@ -1,0 +1,4 @@
+PLI build took: 44.657766s
+Execution time with 1 threads, and 14 columns is 27.492420s in iteration 0. 2667 PLIs cached. Memory used: 6247661584. Multi intersect share: 0.977499.
+Execution time with 1 threads, and 14 columns is 27.323871s in iteration 1. 2667 PLIs cached. Memory used: 6167789776. Multi intersect share: 0.980968.
+Execution time with 1 threads, and 14 columns is 26.618608s in iteration 2. 2667 PLIs cached. Memory used: 6167817816. Multi intersect share: 0.981542.
