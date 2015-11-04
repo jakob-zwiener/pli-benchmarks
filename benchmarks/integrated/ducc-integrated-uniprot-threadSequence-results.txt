@@ -1,0 +1,19 @@
+PLI build took: 45.602813s
+Execution time with 1 threads, and 90 columns is 78.652860s in iteration 0. 90 PLIs cached. Memory used: 951208656.
+Execution time with 1 threads, and 90 columns is 78.265166s in iteration 1. 90 PLIs cached. Memory used: 815465208.
+Execution time with 1 threads, and 90 columns is 78.509801s in iteration 2. 90 PLIs cached. Memory used: 815684104.
+Execution time with 2 threads, and 90 columns is 78.320373s in iteration 0. 90 PLIs cached. Memory used: 815684688.
+Execution time with 2 threads, and 90 columns is 78.524495s in iteration 1. 90 PLIs cached. Memory used: 815684720.
+Execution time with 2 threads, and 90 columns is 78.337078s in iteration 2. 90 PLIs cached. Memory used: 815684736.
+Execution time with 4 threads, and 90 columns is 78.402659s in iteration 0. 90 PLIs cached. Memory used: 815685968.
+Execution time with 4 threads, and 90 columns is 79.063963s in iteration 1. 90 PLIs cached. Memory used: 815686104.
+Execution time with 4 threads, and 90 columns is 83.973174s in iteration 2. 90 PLIs cached. Memory used: 815686104.
+Execution time with 8 threads, and 90 columns is 84.177677s in iteration 0. 90 PLIs cached. Memory used: 815688632.
+Execution time with 8 threads, and 90 columns is 84.331624s in iteration 1. 90 PLIs cached. Memory used: 815688632.
+Execution time with 8 threads, and 90 columns is 84.143776s in iteration 2. 90 PLIs cached. Memory used: 815688632.
+Execution time with 16 threads, and 90 columns is 84.366559s in iteration 0. 90 PLIs cached. Memory used: 815693744.
+Execution time with 16 threads, and 90 columns is 84.311191s in iteration 1. 90 PLIs cached. Memory used: 815693808.
+Execution time with 16 threads, and 90 columns is 83.992149s in iteration 2. 90 PLIs cached. Memory used: 815693936.
+Execution time with 32 threads, and 90 columns is 84.342084s in iteration 0. 90 PLIs cached. Memory used: 815704256.
+Execution time with 32 threads, and 90 columns is 84.172144s in iteration 1. 90 PLIs cached. Memory used: 815704592.
+Execution time with 32 threads, and 90 columns is 84.189275s in iteration 2. 90 PLIs cached. Memory used: 815704736.
