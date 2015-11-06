@@ -1,0 +1,19 @@
+PLI build took: 339.321872s
+Execution time with 16 threads, and 2 columns is 1.005366s in iteration 0. 3 PLIs cached. Memory used: 4482644808.
+Execution time with 16 threads, and 2 columns is 0.098346s in iteration 1. 3 PLIs cached. Memory used: 4361098656.
+Execution time with 16 threads, and 2 columns is 0.064143s in iteration 2. 3 PLIs cached. Memory used: 4361098768.
+Execution time with 16 threads, and 4 columns is 2.132589s in iteration 0. 13 PLIs cached. Memory used: 4552103608.
+Execution time with 16 threads, and 4 columns is 1.595412s in iteration 1. 13 PLIs cached. Memory used: 4552051784.
+Execution time with 16 threads, and 4 columns is 1.548601s in iteration 2. 13 PLIs cached. Memory used: 4552054592.
+Execution time with 16 threads, and 6 columns is 10.481602s in iteration 0. 39 PLIs cached. Memory used: 5631019640.
+Execution time with 16 threads, and 6 columns is 10.426489s in iteration 1. 39 PLIs cached. Memory used: 5631020928.
+Execution time with 16 threads, and 6 columns is 10.273112s in iteration 2. 39 PLIs cached. Memory used: 5631021360.
+Execution time with 16 threads, and 8 columns is 33.081618s in iteration 0. 88 PLIs cached. Memory used: 8426372352.
+Execution time with 16 threads, and 8 columns is 36.758013s in iteration 1. 88 PLIs cached. Memory used: 8426372920.
+Execution time with 16 threads, and 8 columns is 37.249530s in iteration 2. 88 PLIs cached. Memory used: 8426373832.
+Execution time with 16 threads, and 10 columns is 67.891646s in iteration 0. 128 PLIs cached. Memory used: 9753714104.
+Execution time with 16 threads, and 10 columns is 64.329699s in iteration 1. 128 PLIs cached. Memory used: 9753714456.
+Execution time with 16 threads, and 10 columns is 66.987539s in iteration 2. 128 PLIs cached. Memory used: 9753714424.
+Execution time with 16 threads, and 12 columns is 220.372714s in iteration 0. 372 PLIs cached. Memory used: 21078718840.
+Execution time with 16 threads, and 12 columns is 238.383320s in iteration 1. 372 PLIs cached. Memory used: 21078719136.
+Execution time with 16 threads, and 12 columns is 227.069130s in iteration 2. 372 PLIs cached. Memory used: 21078719392.
