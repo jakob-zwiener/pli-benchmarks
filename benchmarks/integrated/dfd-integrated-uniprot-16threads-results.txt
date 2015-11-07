@@ -44,3 +44,6 @@ Execution time with 16 threads, and 28 columns is 1089.599189s in iteration 2. 4
 Execution time with 16 threads, and 30 columns is 6998.910752s in iteration 0. 95093 PLIs cached. Memory used: 16444250088.
 Execution time with 16 threads, and 30 columns is 6946.000453s in iteration 1. 95093 PLIs cached. Memory used: 16444250056.
 Execution time with 16 threads, and 30 columns is 7010.654623s in iteration 2. 95093 PLIs cached. Memory used: 16444166480.
+Execution time with 16 threads, and 32 columns is 11643.826753s in iteration 0. 37987 PLIs cached. Memory used: 15003715240.
+Execution time with 16 threads, and 32 columns is 11534.884198s in iteration 1. 37987 PLIs cached. Memory used: 14860775632.
+Execution time with 16 threads, and 32 columns is 11618.786666s in iteration 2. 37987 PLIs cached. Memory used: 14860775664. 
