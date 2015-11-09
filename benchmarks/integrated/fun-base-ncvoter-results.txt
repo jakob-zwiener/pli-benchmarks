@@ -14,3 +14,6 @@ Execution time with 1 threads, and 8 columns is 26.879875s in iteration 2. 49 PL
 Execution time with 1 threads, and 10 columns is 82.101904s in iteration 0. 96 PLIs cached. Memory used: 9363800288.
 Execution time with 1 threads, and 10 columns is 95.374312s in iteration 1. 96 PLIs cached. Memory used: 9363810608.
 Execution time with 1 threads, and 10 columns is 81.988724s in iteration 2. 96 PLIs cached. Memory used: 9363821080.
+Execution time with 1 threads, and 12 columns is 493.388941s in iteration 0. 312 PLIs cached. Memory used: 19236095136.
+Execution time with 1 threads, and 12 columns is 498.860368s in iteration 1. 312 PLIs cached. Memory used: 19165423440.
+Execution time with 1 threads, and 12 columns is 504.341009s in iteration 2. 312 PLIs cached. Memory used: 19165423440. 
